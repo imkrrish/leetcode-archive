@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "problems": [
+    {
+      "frontendId": "26",
+      "slug": "remove-duplicates-from-sorted-array",
+      "title": "Remove Duplicates from Sorted Array",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1046788182,
+          "language": "javascript",
+          "submittedAt": "2023-09-11T18:31:47.000Z",
+          "runtime": "60 ms",
+          "memory": "44.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    }
+  ]
+}
