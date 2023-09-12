@@ -90,7 +90,9 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [JavaScript](solution.js) | 59 ms | 44.6 MB | 2023-09-12 |
 | [JavaScript](solution.js) | 60 ms | 44.9 MB | 2023-09-11 |
 
 ## Files
+- [solution.js](solution.js)
 - [solution.js](solution.js)
