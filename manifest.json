@@ -73,6 +73,27 @@
         "Two Pointers",
         "String"
       ]
+    },
+    {
+      "frontendId": "9",
+      "slug": "palindrome-number",
+      "title": "Palindrome Number",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1076571507,
+          "language": "javascript",
+          "submittedAt": "2023-10-16T10:15:11.000Z",
+          "runtime": "145 ms",
+          "memory": "51.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ]
     }
   ]
 }
