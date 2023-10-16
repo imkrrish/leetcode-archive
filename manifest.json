@@ -51,6 +51,28 @@
         "Two Pointers",
         "String"
       ]
+    },
+    {
+      "frontendId": "345",
+      "slug": "reverse-vowels-of-a-string",
+      "title": "Reverse Vowels of a String",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1076559071,
+          "language": "javascript",
+          "submittedAt": "2023-10-16T09:52:09.000Z",
+          "runtime": "53 ms",
+          "memory": "48 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
     }
   ]
 }
