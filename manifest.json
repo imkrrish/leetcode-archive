@@ -123,6 +123,13 @@
           "submittedAt": "2023-10-16T17:40:57.000Z",
           "runtime": "50 ms",
           "memory": "41.6 MB"
+        },
+        {
+          "id": 1076868744,
+          "language": "javascript",
+          "submittedAt": "2023-10-16T17:41:17.000Z",
+          "runtime": "36 ms",
+          "memory": "42.4 MB"
         }
       ],
       "difficulty": "Easy",
