@@ -70,9 +70,11 @@
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [JavaScript](solution.js) | 126 ms | 51.3 MB | 2023-10-16 |
 | [JavaScript](solution.js) | 137 ms | 51.2 MB | 2023-10-16 |
 | [JavaScript](solution.js) | 145 ms | 51.5 MB | 2023-10-16 |
 
 ## Files
+- [solution.js](solution.js)
 - [solution.js](solution.js)
 - [solution.js](solution.js)
