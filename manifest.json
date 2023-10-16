@@ -29,6 +29,28 @@
         "Array",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "344",
+      "slug": "reverse-string",
+      "title": "Reverse String",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1076545361,
+          "language": "javascript",
+          "submittedAt": "2023-10-16T09:27:01.000Z",
+          "runtime": "83 ms",
+          "memory": "48.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
     }
   ]
 }
