@@ -108,6 +108,27 @@
       "topics": [
         "Math"
       ]
+    },
+    {
+      "frontendId": "58",
+      "slug": "length-of-last-word",
+      "title": "Length of Last Word",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1076868468,
+          "language": "javascript",
+          "submittedAt": "2023-10-16T17:40:57.000Z",
+          "runtime": "50 ms",
+          "memory": "41.6 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "String"
+      ]
     }
   ]
 }
