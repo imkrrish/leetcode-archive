@@ -180,6 +180,29 @@
         "String",
         "String Matching"
       ]
+    },
+    {
+      "frontendId": "13",
+      "slug": "roman-to-integer",
+      "title": "Roman to Integer",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1081431919,
+          "language": "javascript",
+          "submittedAt": "2023-10-22T15:52:31.000Z",
+          "runtime": "112 ms",
+          "memory": "46.4 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
     }
   ]
 }
