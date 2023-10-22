@@ -203,6 +203,29 @@
         "Math",
         "String"
       ]
+    },
+    {
+      "frontendId": "12",
+      "slug": "integer-to-roman",
+      "title": "Integer to Roman",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1081442681,
+          "language": "javascript",
+          "submittedAt": "2023-10-22T16:11:29.000Z",
+          "runtime": "106 ms",
+          "memory": "46.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
     }
   ]
 }
