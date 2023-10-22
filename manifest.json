@@ -136,6 +136,29 @@
       "topics": [
         "String"
       ]
+    },
+    {
+      "frontendId": "28",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "title": "Find the Index of the First Occurrence in a String",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1081101712,
+          "language": "javascript",
+          "submittedAt": "2023-10-22T04:58:30.000Z",
+          "runtime": "47 ms",
+          "memory": "41.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ]
     }
   ]
 }
