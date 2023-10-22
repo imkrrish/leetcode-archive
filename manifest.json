@@ -158,6 +158,13 @@
           "submittedAt": "2023-10-22T15:22:44.000Z",
           "runtime": "49 ms",
           "memory": "42.1 MB"
+        },
+        {
+          "id": 1081416172,
+          "language": "javascript",
+          "submittedAt": "2023-10-22T15:24:47.000Z",
+          "runtime": "46 ms",
+          "memory": "42.2 MB"
         }
       ],
       "difficulty": "Easy",
