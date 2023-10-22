@@ -226,6 +226,28 @@
         "Math",
         "String"
       ]
+    },
+    {
+      "frontendId": "1",
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1081448518,
+          "language": "javascript",
+          "submittedAt": "2023-10-22T16:21:35.000Z",
+          "runtime": "81 ms",
+          "memory": "41.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
     }
   ]
 }
