@@ -270,6 +270,13 @@
           "submittedAt": "2024-12-09T17:08:34.000Z",
           "runtime": "35 ms",
           "memory": "73.5 MB"
+        },
+        {
+          "id": 1474534396,
+          "language": "cpp",
+          "submittedAt": "2024-12-09T17:10:08.000Z",
+          "runtime": "33 ms",
+          "memory": "73.6 MB"
         }
       ],
       "difficulty": "Easy",
