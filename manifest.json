@@ -261,7 +261,8 @@
       "slug": "contains-duplicate",
       "title": "Contains Duplicate",
       "languages": [
-        "cpp"
+        "cpp",
+        "javascript"
       ],
       "submissions": [
         {
@@ -298,6 +299,13 @@
           "submittedAt": "2024-12-09T17:32:58.000Z",
           "runtime": "36 ms",
           "memory": "75.7 MB"
+        },
+        {
+          "id": 1474557999,
+          "language": "javascript",
+          "submittedAt": "2024-12-09T17:35:18.000Z",
+          "runtime": "17 ms",
+          "memory": "61.2 MB"
         }
       ],
       "difficulty": "Easy",

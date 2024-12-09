@@ -59,6 +59,7 @@
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [JavaScript](solution.js) | 17 ms | 61.2 MB | 2024-12-09 |
 | [C++](solution.cpp) | 36 ms | 75.7 MB | 2024-12-09 |
 | [C++](solution.cpp) | 27 ms | 73.4 MB | 2024-12-09 |
 | [C++](solution.cpp) | 11 ms | 61.2 MB | 2024-12-09 |
@@ -66,6 +67,7 @@
 | [C++](solution.cpp) | 35 ms | 73.5 MB | 2024-12-09 |
 
 ## Files
+- [solution.js](solution.js)
 - [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
