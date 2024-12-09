@@ -255,6 +255,29 @@
         "Array",
         "Hash Table"
       ]
+    },
+    {
+      "frontendId": "217",
+      "slug": "contains-duplicate",
+      "title": "Contains Duplicate",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1474532989,
+          "language": "cpp",
+          "submittedAt": "2024-12-09T17:08:34.000Z",
+          "runtime": "35 ms",
+          "memory": "73.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   ]
 }
