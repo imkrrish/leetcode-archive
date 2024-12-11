@@ -314,6 +314,29 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "242",
+      "slug": "valid-anagram",
+      "title": "Valid Anagram",
+      "languages": [
+        "javascript"
+      ],
+      "submissions": [
+        {
+          "id": 1476049334,
+          "language": "javascript",
+          "submittedAt": "2024-12-11T10:40:22.000Z",
+          "runtime": "16 ms",
+          "memory": "52 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
     }
   ]
 }
