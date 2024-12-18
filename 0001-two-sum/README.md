@@ -78,9 +78,11 @@
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 4 ms | 14.7 MB | 2024-12-18 |
 | [JavaScript](solution.js) | 51 ms | 42.6 MB | 2023-10-22 |
 | [JavaScript](solution.js) | 81 ms | 41.8 MB | 2023-10-22 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.js](solution.js)
 - [solution.js](solution.js)
