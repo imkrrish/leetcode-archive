@@ -320,7 +320,8 @@
       "slug": "valid-anagram",
       "title": "Valid Anagram",
       "languages": [
-        "javascript"
+        "javascript",
+        "cpp"
       ],
       "submissions": [
         {
@@ -329,6 +330,13 @@
           "submittedAt": "2024-12-11T10:40:22.000Z",
           "runtime": "16 ms",
           "memory": "52 MB"
+        },
+        {
+          "id": 1481567784,
+          "language": "cpp",
+          "submittedAt": "2024-12-18T01:11:20.000Z",
+          "runtime": "0 ms",
+          "memory": "9.8 MB"
         }
       ],
       "difficulty": "Easy",
