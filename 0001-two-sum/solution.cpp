@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> numsMap;
+        unordered_map<int, int> numsMap{};
 
         for (int i = 0, n = nums.size(); i < n; i++) {
             int comp = target - nums[i];
             if (numsMap.find(comp) != numsMap.end()) {
-                return {numsMap[comp], i};
+                return {i, numsMap[comp]};
             } else {
-                numsMap.insert({nums[i], i});
+                numsMap[nums[i]] = i;
             }
         }
 
-        return {};
+        return {0, 0};
     }
 };
