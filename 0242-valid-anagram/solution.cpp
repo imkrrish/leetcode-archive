@@ -5,28 +5,18 @@ public:
             return false;
         }
 
-        unordered_map<char, int> s_map;
+        int charCount[26] = {0};
 
         for (int i = 0, n = s.size(); i < n; i++) {
-            if (s_map.find(s[i]) != s_map.end()) {
-                s_map[s[i]]++;
-            } else {
-                s_map.insert({s[i], 1});
-            }
+            charCount[s[i] - 'a']++;
+            charCount[t[i] - 'a']--;
         }
 
-        for (int i = 0, n = s.size(); i < n; i++) {
-            if (s_map.find(t[i]) != s_map.end()) {
-                if (s_map[t[i]] <= 0) {
-                    return false;
-                } else {
-                    s_map[t[i]]--;
-                }
-            } else {
+        for (int count : charCount) {
+            if (count != 0) {
                 return false;
             }
         }
-
         return true;
     }
 };
