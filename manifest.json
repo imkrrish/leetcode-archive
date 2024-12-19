@@ -367,6 +367,30 @@
         "String",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "49",
+      "slug": "group-anagrams",
+      "title": "Group Anagrams",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1482494456,
+          "language": "cpp",
+          "submittedAt": "2024-12-19T02:17:45.000Z",
+          "runtime": "71 ms",
+          "memory": "34.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
     }
   ]
 }
