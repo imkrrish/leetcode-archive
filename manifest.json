@@ -398,6 +398,29 @@
         "String",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "231",
+      "slug": "power-of-two",
+      "title": "Power of Two",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1629852331,
+          "language": "cpp",
+          "submittedAt": "2025-05-10T06:56:25.000Z",
+          "runtime": "0 ms",
+          "memory": "7.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+      ]
     }
   ]
 }
