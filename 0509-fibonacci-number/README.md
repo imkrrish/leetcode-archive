@@ -72,7 +72,9 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 8.2 MB | 2026-03-29 |
 | [C++](solution.cpp) | 11 ms | 7.6 MB | 2026-03-29 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)

@@ -481,6 +481,13 @@
           "submittedAt": "2026-03-29T18:05:00.000Z",
           "runtime": "11 ms",
           "memory": "7.6 MB"
+        },
+        {
+          "id": 1963155038,
+          "language": "cpp",
+          "submittedAt": "2026-03-29T18:32:06.000Z",
+          "runtime": "0 ms",
+          "memory": "8.2 MB"
         }
       ],
       "difficulty": "Easy",
