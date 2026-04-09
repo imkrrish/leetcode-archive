@@ -525,6 +525,30 @@
         "Recursion",
         "Memoization"
       ]
+    },
+    {
+      "frontendId": "3304",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "title": "Find the K-th Character in String Game I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1973773656,
+          "language": "cpp",
+          "submittedAt": "2026-04-09T17:09:49.000Z",
+          "runtime": "4 ms",
+          "memory": "10.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion",
+        "Simulation"
+      ]
     }
   ]
 }
