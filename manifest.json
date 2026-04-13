@@ -6,7 +6,8 @@
       "slug": "remove-duplicates-from-sorted-array",
       "title": "Remove Duplicates from Sorted Array",
       "languages": [
-        "javascript"
+        "javascript",
+        "cpp"
       ],
       "submissions": [
         {
@@ -22,6 +23,13 @@
           "submittedAt": "2023-09-12T05:37:06.000Z",
           "runtime": "59 ms",
           "memory": "44.6 MB"
+        },
+        {
+          "id": 1977656701,
+          "language": "cpp",
+          "submittedAt": "2026-04-13T18:58:18.000Z",
+          "runtime": "1 ms",
+          "memory": "22.6 MB"
         }
       ],
       "difficulty": "Easy",
