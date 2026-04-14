@@ -557,6 +557,28 @@
         "Recursion",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "66",
+      "slug": "plus-one",
+      "title": "Plus One",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1978580660,
+          "language": "cpp",
+          "submittedAt": "2026-04-14T18:41:19.000Z",
+          "runtime": "0 ms",
+          "memory": "11.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Math"
+      ]
     }
   ]
 }
