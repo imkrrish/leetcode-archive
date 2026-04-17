@@ -687,6 +687,31 @@
         "Array",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "349",
+      "slug": "intersection-of-two-arrays",
+      "title": "Intersection of Two Arrays",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981240895,
+          "language": "cpp",
+          "submittedAt": "2026-04-17T19:29:51.000Z",
+          "runtime": "4 ms",
+          "memory": "14.4 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
     }
   ]
 }
