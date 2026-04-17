@@ -658,6 +658,28 @@
         "Sorting",
         "Counting"
       ]
+    },
+    {
+      "frontendId": "283",
+      "slug": "move-zeroes",
+      "title": "Move Zeroes",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981228115,
+          "language": "cpp",
+          "submittedAt": "2026-04-17T19:07:57.000Z",
+          "runtime": "0 ms",
+          "memory": "23.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
     }
   ]
 }
