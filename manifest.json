@@ -633,6 +633,31 @@
         "Breadth-First Search",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "169",
+      "slug": "majority-element",
+      "title": "Majority Element",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981216621,
+          "language": "cpp",
+          "submittedAt": "2026-04-17T18:50:00.000Z",
+          "runtime": "0 ms",
+          "memory": "28.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
+      ]
     }
   ]
 }
