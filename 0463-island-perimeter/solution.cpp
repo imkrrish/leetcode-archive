@@ -1,24 +1,22 @@
 class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
-        int p = 0;
+        int land = 0, neighbors = 0;
         int row = grid.size();
         int col = grid[0].size();
 
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 if (grid[i][j] == 1) {
-                    if (i == 0 || grid[i - 1][j] == 0)
-                        p++; // up
-                    if (i == row - 1 || grid[i + 1][j] == 0)
-                        p++; // down
-                    if (j == 0 || grid[i][j - 1] == 0)
-                        p++; // left
-                    if (j == col - 1 || grid[i][j + 1] == 0)
-                        p++; // right
+                    land++;
+                    if (i + 1 < row && grid[i + 1][j] == 1)
+                        neighbors++; // down
+
+                    if (j + 1 < col && grid[i][j + 1] == 1)
+                        neighbors++; // right
                 }
             }
         }
-        return p;
+        return land * 4 - neighbors * 2;
     }
 };
