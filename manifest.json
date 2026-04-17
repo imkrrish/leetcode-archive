@@ -602,6 +602,30 @@
         "Two Pointers",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "463",
+      "slug": "island-perimeter",
+      "title": "Island Perimeter",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981187389,
+          "language": "cpp",
+          "submittedAt": "2026-04-17T18:14:05.000Z",
+          "runtime": "7 ms",
+          "memory": "101.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
     }
   ]
 }
