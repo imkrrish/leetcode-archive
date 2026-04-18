@@ -719,6 +719,29 @@
         "Binary Search",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "506",
+      "slug": "relative-ranks",
+      "title": "Relative Ranks",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981527421,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T07:15:09.000Z",
+          "runtime": "3 ms",
+          "memory": "15.6 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
     }
   ]
 }
