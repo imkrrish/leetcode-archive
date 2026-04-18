@@ -862,6 +862,33 @@
         "Linked List",
         "Math"
       ]
+    },
+    {
+      "frontendId": "3507",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981970120,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T18:02:07.000Z",
+          "runtime": "0 ms",
+          "memory": "26.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Doubly-Linked List",
+        "Ordered Set"
+      ]
     }
   ]
 }
