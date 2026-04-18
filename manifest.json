@@ -742,6 +742,30 @@
         "Sorting",
         "Heap (Priority Queue)"
       ]
+    },
+    {
+      "frontendId": "234",
+      "slug": "palindrome-linked-list",
+      "title": "Palindrome Linked List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981676885,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T11:09:35.000Z",
+          "runtime": "7 ms",
+          "memory": "127.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ]
     }
   ]
 }
