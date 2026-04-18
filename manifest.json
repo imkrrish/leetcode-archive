@@ -796,6 +796,28 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "206",
+      "slug": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981876603,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T16:08:46.000Z",
+          "runtime": "0 ms",
+          "memory": "13.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
     }
   ]
 }
