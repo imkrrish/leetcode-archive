@@ -840,6 +840,28 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "1290",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981894395,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T16:31:22.000Z",
+          "runtime": "0 ms",
+          "memory": "10.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Math"
+      ]
     }
   ]
 }
