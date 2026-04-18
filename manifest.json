@@ -773,6 +773,29 @@
         "Stack",
         "Recursion"
       ]
+    },
+    {
+      "frontendId": "160",
+      "slug": "intersection-of-two-linked-lists",
+      "title": "Intersection of Two Linked Lists",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1981866262,
+          "language": "cpp",
+          "submittedAt": "2026-04-18T15:55:05.000Z",
+          "runtime": "53 ms",
+          "memory": "24 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ]
     }
   ]
 }
