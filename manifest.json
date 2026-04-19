@@ -989,6 +989,30 @@
         "Breadth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "112",
+      "slug": "path-sum",
+      "title": "Path Sum",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982912039,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T18:03:29.000Z",
+          "runtime": "0 ms",
+          "memory": "21.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
