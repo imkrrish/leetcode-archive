@@ -965,6 +965,30 @@
         "Breadth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "104",
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982895976,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T17:46:15.000Z",
+          "runtime": "0 ms",
+          "memory": "18.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
