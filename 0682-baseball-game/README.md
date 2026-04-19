@@ -134,7 +134,9 @@ Since the record is empty, the total sum is 0.
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 13.1 MB | 2026-04-19 |
 | [C++](solution.cpp) | 3 ms | 12.9 MB | 2026-04-19 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
