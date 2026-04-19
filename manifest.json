@@ -889,6 +889,28 @@
         "Doubly-Linked List",
         "Ordered Set"
       ]
+    },
+    {
+      "frontendId": "20",
+      "slug": "valid-parentheses",
+      "title": "Valid Parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982520350,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T09:20:24.000Z",
+          "runtime": "0 ms",
+          "memory": "8.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "String",
+        "Stack"
+      ]
     }
   ]
 }
