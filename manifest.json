@@ -1013,6 +1013,30 @@
         "Breadth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "144",
+      "slug": "binary-tree-preorder-traversal",
+      "title": "Binary Tree Preorder Traversal",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982920280,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T18:12:14.000Z",
+          "runtime": "0 ms",
+          "memory": "11 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
