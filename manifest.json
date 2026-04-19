@@ -1075,6 +1075,30 @@
         "Depth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "94",
+      "slug": "binary-tree-inorder-traversal",
+      "title": "Binary Tree Inorder Traversal",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982940499,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T18:34:14.000Z",
+          "runtime": "0 ms",
+          "memory": "10.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
