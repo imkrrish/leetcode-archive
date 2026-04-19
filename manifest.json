@@ -911,6 +911,29 @@
         "String",
         "Stack"
       ]
+    },
+    {
+      "frontendId": "682",
+      "slug": "baseball-game",
+      "title": "Baseball Game",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982537318,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T09:45:16.000Z",
+          "runtime": "3 ms",
+          "memory": "12.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ]
     }
   ]
 }
