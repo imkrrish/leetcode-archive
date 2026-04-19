@@ -941,6 +941,30 @@
         "Stack",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "101",
+      "slug": "symmetric-tree",
+      "title": "Symmetric Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1982873167,
+          "language": "cpp",
+          "submittedAt": "2026-04-19T17:21:40.000Z",
+          "runtime": "0 ms",
+          "memory": "18.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
