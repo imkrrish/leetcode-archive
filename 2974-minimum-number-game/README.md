@@ -69,7 +69,9 @@ At the begining of round two, nums = [5,4]. Now, first Alice removes 4 and then 
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 28.4 MB | 2026-04-20 |
 | [C++](solution.cpp) | 3 ms | 28.5 MB | 2026-04-20 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
