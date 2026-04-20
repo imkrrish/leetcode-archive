@@ -1130,6 +1130,29 @@
         "Breadth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "543",
+      "slug": "diameter-of-binary-tree",
+      "title": "Diameter of Binary Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983400432,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T08:56:29.000Z",
+          "runtime": "3 ms",
+          "memory": "23.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
