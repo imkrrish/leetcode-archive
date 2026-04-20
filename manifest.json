@@ -1177,6 +1177,28 @@
         "Binary Search Tree",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "704",
+      "slug": "binary-search",
+      "title": "Binary Search",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983794371,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T17:18:29.000Z",
+          "runtime": "0 ms",
+          "memory": "31.4 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
     }
   ]
 }
