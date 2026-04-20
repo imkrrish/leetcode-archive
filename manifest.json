@@ -1153,6 +1153,30 @@
         "Depth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "98",
+      "slug": "validate-binary-search-tree",
+      "title": "Validate Binary Search Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983432437,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T09:37:03.000Z",
+          "runtime": "0 ms",
+          "memory": "21.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
     }
   ]
 }
