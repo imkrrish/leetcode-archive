@@ -1199,6 +1199,31 @@
         "Array",
         "Binary Search"
       ]
+    },
+    {
+      "frontendId": "897",
+      "slug": "increasing-order-search-tree",
+      "title": "Increasing Order Search Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983819869,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T17:42:14.000Z",
+          "runtime": "0 ms",
+          "memory": "10.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Stack",
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
     }
   ]
 }
