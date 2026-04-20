@@ -1106,6 +1106,30 @@
         "Depth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "404",
+      "slug": "sum-of-left-leaves",
+      "title": "Sum of Left Leaves",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983380582,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T08:28:48.000Z",
+          "runtime": "0 ms",
+          "memory": "16.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
