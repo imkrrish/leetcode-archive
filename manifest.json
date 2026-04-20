@@ -1256,6 +1256,30 @@
         "Binary Search Tree",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "2974",
+      "slug": "minimum-number-game",
+      "title": "Minimum Number Game",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1983837997,
+          "language": "cpp",
+          "submittedAt": "2026-04-20T17:59:04.000Z",
+          "runtime": "3 ms",
+          "memory": "28.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
     }
   ]
 }
