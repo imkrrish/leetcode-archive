@@ -1287,6 +1287,29 @@
         "Heap (Priority Queue)",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "2",
+      "slug": "add-two-numbers",
+      "title": "Add Two Numbers",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1984594379,
+          "language": "cpp",
+          "submittedAt": "2026-04-21T15:58:25.000Z",
+          "runtime": "3 ms",
+          "memory": "77 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
     }
   ]
 }
