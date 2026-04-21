@@ -67,7 +67,9 @@
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 77.2 MB | 2026-04-21 |
 | [C++](solution.cpp) | 3 ms | 77 MB | 2026-04-21 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
