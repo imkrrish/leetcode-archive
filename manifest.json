@@ -1331,6 +1331,29 @@
         "Math",
         "Recursion"
       ]
+    },
+    {
+      "frontendId": "322",
+      "slug": "coin-change",
+      "title": "Coin Change",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1991202729,
+          "language": "cpp",
+          "submittedAt": "2026-04-29T17:12:48.000Z",
+          "runtime": "22 ms",
+          "memory": "17.7 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
     }
   ]
 }
