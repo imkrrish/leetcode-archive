@@ -1361,6 +1361,30 @@
         "Dynamic Programming",
         "Breadth-First Search"
       ]
+    },
+    {
+      "frontendId": "733",
+      "slug": "flood-fill",
+      "title": "Flood Fill",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1994894767,
+          "language": "cpp",
+          "submittedAt": "2026-05-04T10:58:20.000Z",
+          "runtime": "0 ms",
+          "memory": "18.1 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
     }
   ]
 }
