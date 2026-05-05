@@ -1385,6 +1385,30 @@
         "Breadth-First Search",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "1971",
+      "slug": "find-if-path-exists-in-graph",
+      "title": "Find if Path Exists in Graph",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1995979182,
+          "language": "cpp",
+          "submittedAt": "2026-05-05T16:37:30.000Z",
+          "runtime": "372 ms",
+          "memory": "311.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
     }
   ]
 }
