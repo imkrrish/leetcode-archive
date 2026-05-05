@@ -1438,6 +1438,27 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "1791",
+      "slug": "find-center-of-star-graph",
+      "title": "Find Center of Star Graph",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996052279,
+          "language": "cpp",
+          "submittedAt": "2026-05-05T17:56:41.000Z",
+          "runtime": "0 ms",
+          "memory": "99.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Graph Theory"
+      ]
     }
   ]
 }
