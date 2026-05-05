@@ -1416,6 +1416,28 @@
         "Union-Find",
         "Graph Theory"
       ]
+    },
+    {
+      "frontendId": "61",
+      "slug": "rotate-list",
+      "title": "Rotate List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996037579,
+          "language": "cpp",
+          "submittedAt": "2026-05-05T17:41:05.000Z",
+          "runtime": "0 ms",
+          "memory": "16.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
     }
   ]
 }
