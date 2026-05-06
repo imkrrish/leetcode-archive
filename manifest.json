@@ -1459,6 +1459,30 @@
       "topics": [
         "Graph Theory"
       ]
+    },
+    {
+      "frontendId": "1122",
+      "slug": "relative-sort-array",
+      "title": "Relative Sort Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996632929,
+          "language": "cpp",
+          "submittedAt": "2026-05-06T13:25:48.000Z",
+          "runtime": "0 ms",
+          "memory": "11.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting Sort"
+      ]
     }
   ]
 }
