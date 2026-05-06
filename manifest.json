@@ -1567,6 +1567,29 @@
         "Sorting",
         "Counting"
       ]
+    },
+    {
+      "frontendId": "1636",
+      "slug": "sort-array-by-increasing-frequency",
+      "title": "Sort Array by Increasing Frequency",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996847636,
+          "language": "cpp",
+          "submittedAt": "2026-05-06T18:39:10.000Z",
+          "runtime": "2 ms",
+          "memory": "15.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   ]
 }
