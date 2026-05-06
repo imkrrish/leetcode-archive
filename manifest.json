@@ -1543,6 +1543,30 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1356",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996838054,
+          "language": "cpp",
+          "submittedAt": "2026-05-06T18:27:10.000Z",
+          "runtime": "0 ms",
+          "memory": "14.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting",
+        "Counting"
+      ]
     }
   ]
 }
