@@ -1520,6 +1520,29 @@
         "Two Pointers",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "1710",
+      "slug": "maximum-units-on-a-truck",
+      "title": "Maximum Units on a Truck",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996820582,
+          "language": "cpp",
+          "submittedAt": "2026-05-06T18:07:55.000Z",
+          "runtime": "0 ms",
+          "memory": "19.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
