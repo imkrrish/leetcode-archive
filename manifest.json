@@ -1483,6 +1483,29 @@
         "Sorting",
         "Counting Sort"
       ]
+    },
+    {
+      "frontendId": "1861",
+      "slug": "rotating-the-box",
+      "title": "Rotating the Box",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1996805293,
+          "language": "cpp",
+          "submittedAt": "2026-05-06T17:51:25.000Z",
+          "runtime": "11 ms",
+          "memory": "56.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix"
+      ]
     }
   ]
 }
