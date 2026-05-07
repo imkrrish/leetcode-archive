@@ -1590,6 +1590,28 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "2164",
+      "slug": "sort-even-and-odd-indices-independently",
+      "title": "Sort Even and Odd Indices Independently",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1997119531,
+          "language": "cpp",
+          "submittedAt": "2026-05-07T05:54:35.000Z",
+          "runtime": "0 ms",
+          "memory": "15.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
     }
   ]
 }
