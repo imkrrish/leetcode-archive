@@ -1663,6 +1663,28 @@
         "Array",
         "Dynamic Programming"
       ]
+    },
+    {
+      "frontendId": "3660",
+      "slug": "jump-game-ix",
+      "title": "Jump Game IX",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1997579411,
+          "language": "cpp",
+          "submittedAt": "2026-05-07T17:32:21.000Z",
+          "runtime": "14 ms",
+          "memory": "225.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
