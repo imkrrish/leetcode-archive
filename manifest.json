@@ -1612,6 +1612,28 @@
         "Array",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1859",
+      "slug": "sorting-the-sentence",
+      "title": "Sorting the Sentence",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1997135948,
+          "language": "cpp",
+          "submittedAt": "2026-05-07T06:18:03.000Z",
+          "runtime": "0 ms",
+          "memory": "8.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "String",
+        "Sorting"
+      ]
     }
   ]
 }
