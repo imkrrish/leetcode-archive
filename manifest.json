@@ -1634,6 +1634,28 @@
         "String",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "121",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1997145856,
+          "language": "cpp",
+          "submittedAt": "2026-05-07T06:32:10.000Z",
+          "runtime": "0 ms",
+          "memory": "97.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
