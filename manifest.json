@@ -1693,6 +1693,31 @@
         "Array",
         "Dynamic Programming"
       ]
+    },
+    {
+      "frontendId": "3629",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1998336576,
+          "language": "cpp",
+          "submittedAt": "2026-05-08T18:05:20.000Z",
+          "runtime": "695 ms",
+          "memory": "281.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Breadth-First Search",
+        "Number Theory"
+      ]
     }
   ]
 }
