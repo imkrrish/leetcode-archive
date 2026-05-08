@@ -56,12 +56,14 @@ The first occurrence is at index 0, so we return 0.
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 9.4 MB | 2026-05-08 |
 | [JavaScript](solution.js) | 52 ms | 42.1 MB | 2023-10-22 |
 | [JavaScript](solution.js) | 46 ms | 42.2 MB | 2023-10-22 |
 | [JavaScript](solution.js) | 49 ms | 42.1 MB | 2023-10-22 |
 | [JavaScript](solution.js) | 47 ms | 41.9 MB | 2023-10-22 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.js](solution.js)
 - [solution.js](solution.js)
 - [solution.js](solution.js)

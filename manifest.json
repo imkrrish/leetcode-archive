@@ -150,7 +150,8 @@
       "slug": "find-the-index-of-the-first-occurrence-in-a-string",
       "title": "Find the Index of the First Occurrence in a String",
       "languages": [
-        "javascript"
+        "javascript",
+        "cpp"
       ],
       "submissions": [
         {
@@ -180,6 +181,13 @@
           "submittedAt": "2023-10-22T15:25:13.000Z",
           "runtime": "52 ms",
           "memory": "42.1 MB"
+        },
+        {
+          "id": 1998314990,
+          "language": "cpp",
+          "submittedAt": "2026-05-08T17:37:17.000Z",
+          "runtime": "0 ms",
+          "memory": "9.4 MB"
         }
       ],
       "difficulty": "Easy",
