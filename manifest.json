@@ -1718,6 +1718,29 @@
         "Breadth-First Search",
         "Number Theory"
       ]
+    },
+    {
+      "frontendId": "396",
+      "slug": "rotate-function",
+      "title": "Rotate Function",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1998681474,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T08:49:51.000Z",
+          "runtime": "2 ms",
+          "memory": "99.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
