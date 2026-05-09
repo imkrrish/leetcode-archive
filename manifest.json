@@ -1748,6 +1748,29 @@
         "Math",
         "Dynamic Programming"
       ]
+    },
+    {
+      "frontendId": "1914",
+      "slug": "cyclically-rotating-a-grid",
+      "title": "Cyclically Rotating a Grid",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1998729393,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T10:14:33.000Z",
+          "runtime": "14 ms",
+          "memory": "17.7 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
     }
   ]
 }
