@@ -1763,6 +1763,13 @@
           "submittedAt": "2026-05-09T10:14:33.000Z",
           "runtime": "14 ms",
           "memory": "17.7 MB"
+        },
+        {
+          "id": 1998729564,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T10:14:50.000Z",
+          "runtime": "12 ms",
+          "memory": "17.9 MB"
         }
       ],
       "difficulty": "Medium",
