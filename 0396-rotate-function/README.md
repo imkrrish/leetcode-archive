@@ -73,7 +73,9 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 0 ms | 99.6 MB | 2026-05-09 |
 | [C++](solution.cpp) | 2 ms | 99.5 MB | 2026-05-09 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
