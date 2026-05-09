@@ -1800,6 +1800,13 @@
           "submittedAt": "2026-05-09T16:09:31.000Z",
           "runtime": "0 ms",
           "memory": "11.7 MB"
+        },
+        {
+          "id": 1999044238,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T16:09:45.000Z",
+          "runtime": "0 ms",
+          "memory": "11.8 MB"
         }
       ],
       "difficulty": "Easy",
