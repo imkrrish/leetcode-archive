@@ -1815,6 +1815,31 @@
         "String",
         "Trie"
       ]
+    },
+    {
+      "frontendId": "148",
+      "slug": "sort-list",
+      "title": "Sort List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999165137,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T18:50:57.000Z",
+          "runtime": "57 ms",
+          "memory": "75.7 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Divide and Conquer",
+        "Sorting",
+        "Merge Sort"
+      ]
     }
   ]
 }
