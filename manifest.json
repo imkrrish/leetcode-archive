@@ -1778,6 +1778,29 @@
         "Matrix",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "14",
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999043457,
+          "language": "cpp",
+          "submittedAt": "2026-05-09T16:08:48.000Z",
+          "runtime": "0 ms",
+          "memory": "11.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
     }
   ]
 }
