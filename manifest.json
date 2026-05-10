@@ -1862,6 +1862,27 @@
         "Array",
         "Dynamic Programming"
       ]
+    },
+    {
+      "frontendId": "2016",
+      "slug": "maximum-difference-between-increasing-elements",
+      "title": "Maximum Difference Between Increasing Elements",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999716048,
+          "language": "cpp",
+          "submittedAt": "2026-05-10T12:16:03.000Z",
+          "runtime": "0 ms",
+          "memory": "11.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ]
     }
   ]
 }
