@@ -1840,6 +1840,28 @@
         "Sorting",
         "Merge Sort"
       ]
+    },
+    {
+      "frontendId": "2770",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999701727,
+          "language": "cpp",
+          "submittedAt": "2026-05-10T11:50:36.000Z",
+          "runtime": "24 ms",
+          "memory": "68.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
