@@ -1907,6 +1907,28 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "191",
+      "slug": "number-of-1-bits",
+      "title": "Number of 1 Bits",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999745319,
+          "language": "cpp",
+          "submittedAt": "2026-05-10T13:06:32.000Z",
+          "runtime": "0 ms",
+          "memory": "8.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ]
     }
   ]
 }
