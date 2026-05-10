@@ -1883,6 +1883,30 @@
       "topics": [
         "Array"
       ]
+    },
+    {
+      "frontendId": "435",
+      "slug": "non-overlapping-intervals",
+      "title": "Non-overlapping Intervals",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 1999739028,
+          "language": "cpp",
+          "submittedAt": "2026-05-10T12:55:31.000Z",
+          "runtime": "38 ms",
+          "memory": "94 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
