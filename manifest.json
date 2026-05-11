@@ -1929,6 +1929,28 @@
         "Divide and Conquer",
         "Bit Manipulation"
       ]
+    },
+    {
+      "frontendId": "2553",
+      "slug": "separate-the-digits-in-an-array",
+      "title": "Separate the Digits in an Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2000322618,
+          "language": "cpp",
+          "submittedAt": "2026-05-11T07:51:59.000Z",
+          "runtime": "0 ms",
+          "memory": "14.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
     }
   ]
 }
