@@ -1966,6 +1966,13 @@
           "submittedAt": "2026-05-11T08:00:17.000Z",
           "runtime": "4 ms",
           "memory": "16.8 MB"
+        },
+        {
+          "id": 2000327654,
+          "language": "cpp",
+          "submittedAt": "2026-05-11T08:00:55.000Z",
+          "runtime": "2 ms",
+          "memory": "16.7 MB"
         }
       ],
       "difficulty": "Easy",
