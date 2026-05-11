@@ -1973,6 +1973,13 @@
           "submittedAt": "2026-05-11T08:00:55.000Z",
           "runtime": "2 ms",
           "memory": "16.7 MB"
+        },
+        {
+          "id": 2000328199,
+          "language": "cpp",
+          "submittedAt": "2026-05-11T08:01:50.000Z",
+          "runtime": "0 ms",
+          "memory": "17 MB"
         }
       ],
       "difficulty": "Easy",
