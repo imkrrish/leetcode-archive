@@ -1951,6 +1951,28 @@
         "Array",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "1929",
+      "slug": "concatenation-of-array",
+      "title": "Concatenation of Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2000327325,
+          "language": "cpp",
+          "submittedAt": "2026-05-11T08:00:17.000Z",
+          "runtime": "4 ms",
+          "memory": "16.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
     }
   ]
 }
