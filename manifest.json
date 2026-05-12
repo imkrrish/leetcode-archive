@@ -2038,6 +2038,34 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "347",
+      "slug": "top-k-frequent-elements",
+      "title": "Top K Frequent Elements",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2001569230,
+          "language": "cpp",
+          "submittedAt": "2026-05-12T17:48:44.000Z",
+          "runtime": "7 ms",
+          "memory": "17.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ]
     }
   ]
 }
