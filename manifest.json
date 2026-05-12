@@ -2001,6 +2001,29 @@
         "Array",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "1665",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2001483554,
+          "language": "cpp",
+          "submittedAt": "2026-05-12T16:11:25.000Z",
+          "runtime": "31 ms",
+          "memory": "97.5 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
