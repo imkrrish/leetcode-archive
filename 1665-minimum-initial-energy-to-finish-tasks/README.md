@@ -113,7 +113,9 @@ Notice that even though we have leftover energy, starting with 7 energy does not
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 39 ms | 97.4 MB | 2026-05-12 |
 | [C++](solution.cpp) | 31 ms | 97.5 MB | 2026-05-12 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)

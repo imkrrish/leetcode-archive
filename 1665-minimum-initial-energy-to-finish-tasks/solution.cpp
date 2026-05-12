@@ -12,10 +12,10 @@ public:
         }
 
         sort(tasks.begin(), tasks.end(), [](vector<int>& a, vector<int>& b) {
-            int diff1 = a[0] - a[1];
-            int diff2 = b[0] - b[1];
+            int diff1 = a[1] - a[0];
+            int diff2 = b[1] - b[0];
 
-            return diff1 < diff2;
+            return diff1 > diff2;
         });
 
         int min_energy_req = max(sum_of_actual, max_of_min_energy);

@@ -2016,6 +2016,13 @@
           "submittedAt": "2026-05-12T16:11:25.000Z",
           "runtime": "31 ms",
           "memory": "97.5 MB"
+        },
+        {
+          "id": 2001486040,
+          "language": "cpp",
+          "submittedAt": "2026-05-12T16:14:31.000Z",
+          "runtime": "39 ms",
+          "memory": "97.4 MB"
         }
       ],
       "difficulty": "Hard",
