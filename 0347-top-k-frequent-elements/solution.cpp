@@ -12,19 +12,25 @@ public:
             mp[num]++;
         }
 
-        vector<pair<int, int>> arr;
+        vector<vector<int>> bucket(n + 1);
 
         for (auto& it : mp) {
-            arr.push_back({it.first, it.second});
-        }
+            int num = it.first;
+            int count = it.second;
 
-        sort(arr.begin(), arr.end(),
-             [](auto& a, auto& b) { return a.second > b.second; });
+            bucket[count].push_back(num);
+        }
 
         vector<int> ans;
 
-        for (int i = 0; i < k; i++) {
-            ans.push_back(arr[i].first);
+        for (int i = n; i >= 0 && ans.size() < k; i--) {
+            for (int num : bucket[i]) {
+                ans.push_back(num);
+
+                if (ans.size() == k) {
+                    return ans;
+                }
+            }
         }
 
         return ans;
