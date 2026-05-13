@@ -2080,6 +2080,29 @@
         "Counting",
         "Quickselect"
       ]
+    },
+    {
+      "frontendId": "1674",
+      "slug": "minimum-moves-to-make-array-complementary",
+      "title": "Minimum Moves to Make Array Complementary",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2002349098,
+          "language": "cpp",
+          "submittedAt": "2026-05-13T17:35:42.000Z",
+          "runtime": "19 ms",
+          "memory": "93.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
     }
   ]
 }

@@ -1,0 +1,96 @@
+# 1674. Minimum Moves to Make Array Complementary
+
+## Metadata
+- **Difficulty**: Medium
+- **URL**: [LeetCode Problem URL](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)
+- **Topics**: Array, Hash Table, Prefix Sum
+- **Acceptance**: 64.9%
+
+## Problem Statement
+<p>You are given an integer array <code>nums</code> of <strong>even</strong> length <code>n</code> and an integer <code>limit</code>. In one move, you can replace any integer from <code>nums</code> with another integer between <code>1</code> and <code>limit</code>, inclusive.</p>
+
+<p>The array <code>nums</code> is <strong>complementary</strong> if for all indices <code>i</code> (<strong>0-indexed</strong>), <code>nums[i] + nums[n - 1 - i]</code> equals the same number. For example, the array <code>[1,2,3,4]</code> is complementary because for all indices <code>i</code>, <code>nums[i] + nums[n - 1 - i] = 5</code>.</p>
+
+<p>Return the <em><strong>minimum</strong> number of moves required to make </em><code>nums</code><em> <strong>complementary</strong></em>.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1,2,4,3], limit = 4
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> In 1 move, you can change nums to [1,2,<u>2</u>,3] (underlined elements are changed).
+nums[0] + nums[3] = 1 + 3 = 4.
+nums[1] + nums[2] = 2 + 2 = 4.
+nums[2] + nums[1] = 2 + 2 = 4.
+nums[3] + nums[0] = 3 + 1 = 4.
+Therefore, nums[i] + nums[n-1-i] = 4 for every i, so nums is complementary.
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1,2,2,1], limit = 2
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> In 2 moves, you can change nums to [<u>2</u>,2,2,<u>2</u>]. You cannot change any number to 3 since 3 &gt; limit.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1,2,1,2], limit = 2
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> nums is already complementary.
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>n == nums.length</code></li>
+	<li><code>2 &lt;= n&nbsp;&lt;=&nbsp;10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums[i]&nbsp;&lt;= limit &lt;=&nbsp;10<sup>5</sup></code></li>
+	<li><code>n</code> is even.</li>
+</ul>
+
+
+## Examples
+**Example 1:**
+- **Input:** `nums = [1,2,4,3], limit = 4`
+- **Output:** `1`
+- **Explanation:** In 1 move, you can change nums to [1,2,2,3] (underlined elements are changed).
+nums[0] + nums[3] = 1 + 3 = 4.
+nums[1] + nums[2] = 2 + 2 = 4.
+nums[2] + nums[1] = 2 + 2 = 4.
+nums[3] + nums[0] = 3 + 1 = 4.
+Therefore, nums[i] + nums[n-1-i] = 4 for every i, so nums is complementary.
+
+**Example 2:**
+- **Input:** `nums = [1,2,2,1], limit = 2`
+- **Output:** `2`
+- **Explanation:** In 2 moves, you can change nums to [2,2,2,2]. You cannot change any number to 3 since 3 > limit.
+
+**Example 3:**
+- **Input:** `nums = [1,2,1,2], limit = 2`
+- **Output:** `0`
+- **Explanation:** nums is already complementary.
+
+## Constraints
+- n == nums.length
+- 2 <= n <= 10^5
+- 1 <= nums[i] <= limit <= 10^5
+- n is even.
+
+## Hints
+- Given a target sum x, each pair of nums[i] and nums[n-1-i] would either need 0, 1, or 2 modifications.
+- Can you find the optimal target sum x value such that the sum of modifications is minimized?
+- Create a difference array to efficiently sum all the modifications.
+
+## Accepted Solutions
+
+| Language | Runtime | Memory | Submitted |
+| -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 19 ms | 93.4 MB | 2026-05-13 |
+
+## Files
+- [solution.cpp](solution.cpp)
