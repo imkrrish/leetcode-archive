@@ -2155,6 +2155,29 @@
         "Array",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "128",
+      "slug": "longest-consecutive-sequence",
+      "title": "Longest Consecutive Sequence",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2002967691,
+          "language": "cpp",
+          "submittedAt": "2026-05-14T12:37:57.000Z",
+          "runtime": "80 ms",
+          "memory": "89 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ]
     }
   ]
 }
