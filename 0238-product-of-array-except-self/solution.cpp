@@ -10,8 +10,8 @@ public:
 
         int suffix = 1;
         for (int i = n - 2; i >= 0; i--) {
-            suffix = suffix * nums[i + 1];
-            ans[i] = suffix * ans[i];
+            suffix *= nums[i + 1];
+            ans[i] *= suffix;
         }
 
         return ans;
