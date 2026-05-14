@@ -2126,6 +2126,28 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "238",
+      "slug": "product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2002950010,
+          "language": "cpp",
+          "submittedAt": "2026-05-14T12:08:56.000Z",
+          "runtime": "4 ms",
+          "memory": "40 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
     }
   ]
 }
