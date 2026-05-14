@@ -2178,6 +2178,28 @@
         "Hash Table",
         "Union-Find"
       ]
+    },
+    {
+      "frontendId": "125",
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2002985196,
+          "language": "cpp",
+          "submittedAt": "2026-05-14T13:06:20.000Z",
+          "runtime": "2 ms",
+          "memory": "9.9 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
     }
   ]
 }
