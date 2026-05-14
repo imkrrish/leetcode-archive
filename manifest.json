@@ -2103,6 +2103,29 @@
         "Hash Table",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "2784",
+      "slug": "check-if-array-is-good",
+      "title": "Check if Array is Good",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2002909884,
+          "language": "cpp",
+          "submittedAt": "2026-05-14T11:04:49.000Z",
+          "runtime": "0 ms",
+          "memory": "26.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   ]
 }
