@@ -2222,6 +2222,29 @@
         "Array",
         "Binary Search"
       ]
+    },
+    {
+      "frontendId": "15",
+      "slug": "3sum",
+      "title": "3Sum",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2004039571,
+          "language": "cpp",
+          "submittedAt": "2026-05-15T18:23:59.000Z",
+          "runtime": "39 ms",
+          "memory": "29.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
     }
   ]
 }
