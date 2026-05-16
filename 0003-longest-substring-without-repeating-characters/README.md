@@ -72,7 +72,9 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 6 ms | 11.6 MB | 2026-05-16 |
 | [C++](solution.cpp) | 14 ms | 14.2 MB | 2026-05-16 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
