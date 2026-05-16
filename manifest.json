@@ -2312,6 +2312,29 @@
         "Math",
         "Recursion"
       ]
+    },
+    {
+      "frontendId": "3",
+      "slug": "longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2004900502,
+          "language": "cpp",
+          "submittedAt": "2026-05-16T19:56:35.000Z",
+          "runtime": "14 ms",
+          "memory": "14.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
     }
   ]
 }
