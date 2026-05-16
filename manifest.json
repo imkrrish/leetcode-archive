@@ -2245,6 +2245,28 @@
         "Two Pointers",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "154",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2004520911,
+          "language": "cpp",
+          "submittedAt": "2026-05-16T10:56:58.000Z",
+          "runtime": "0 ms",
+          "memory": "16 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
     }
   ]
 }
