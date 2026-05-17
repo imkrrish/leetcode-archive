@@ -2342,6 +2342,29 @@
         "String",
         "Sliding Window"
       ]
+    },
+    {
+      "frontendId": "1306",
+      "slug": "jump-game-iii",
+      "title": "Jump Game III",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2005759599,
+          "language": "cpp",
+          "submittedAt": "2026-05-17T17:36:00.000Z",
+          "runtime": "4 ms",
+          "memory": "38.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ]
     }
   ]
 }
