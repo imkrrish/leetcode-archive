@@ -2365,6 +2365,29 @@
         "Depth-First Search",
         "Breadth-First Search"
       ]
+    },
+    {
+      "frontendId": "424",
+      "slug": "longest-repeating-character-replacement",
+      "title": "Longest Repeating Character Replacement",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2005769532,
+          "language": "cpp",
+          "submittedAt": "2026-05-17T17:47:38.000Z",
+          "runtime": "6 ms",
+          "memory": "10.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
     }
   ]
 }
