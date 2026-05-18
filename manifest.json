@@ -2411,6 +2411,29 @@
         "Hash Table",
         "Breadth-First Search"
       ]
+    },
+    {
+      "frontendId": "76",
+      "slug": "minimum-window-substring",
+      "title": "Minimum Window Substring",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2006665841,
+          "language": "cpp",
+          "submittedAt": "2026-05-18T18:39:58.000Z",
+          "runtime": "11 ms",
+          "memory": "11.6 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
     }
   ]
 }
