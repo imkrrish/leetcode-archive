@@ -2388,6 +2388,29 @@
         "String",
         "Sliding Window"
       ]
+    },
+    {
+      "frontendId": "1345",
+      "slug": "jump-game-iv",
+      "title": "Jump Game IV",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2006438430,
+          "language": "cpp",
+          "submittedAt": "2026-05-18T14:20:09.000Z",
+          "runtime": "70 ms",
+          "memory": "77.1 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search"
+      ]
     }
   ]
 }
