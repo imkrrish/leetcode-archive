@@ -2458,6 +2458,28 @@
         "Two Pointers",
         "Binary Search"
       ]
+    },
+    {
+      "frontendId": "33",
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2007503940,
+          "language": "cpp",
+          "submittedAt": "2026-05-19T17:20:05.000Z",
+          "runtime": "0 ms",
+          "memory": "15.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
     }
   ]
 }
