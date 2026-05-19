@@ -2434,6 +2434,30 @@
         "String",
         "Sliding Window"
       ]
+    },
+    {
+      "frontendId": "2540",
+      "slug": "minimum-common-value",
+      "title": "Minimum Common Value",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2007474913,
+          "language": "cpp",
+          "submittedAt": "2026-05-19T16:35:12.000Z",
+          "runtime": "0 ms",
+          "memory": "54.6 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search"
+      ]
     }
   ]
 }
