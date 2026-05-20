@@ -2510,6 +2510,28 @@
         "Hash Table",
         "Bit Manipulation"
       ]
+    },
+    {
+      "frontendId": "21",
+      "slug": "merge-two-sorted-lists",
+      "title": "Merge Two Sorted Lists",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2008085608,
+          "language": "cpp",
+          "submittedAt": "2026-05-20T11:05:13.000Z",
+          "runtime": "0 ms",
+          "memory": "19.6 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
     }
   ]
 }
