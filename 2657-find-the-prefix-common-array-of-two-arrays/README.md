@@ -76,7 +76,9 @@ At i = 2: 1, 2, and 3 are common in A and B, so C[2] = 3.
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 3 ms | 85.9 MB | 2026-05-20 |
 | [C++](solution.cpp) | 14 ms | 88.4 MB | 2026-05-20 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)

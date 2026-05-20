@@ -2495,6 +2495,13 @@
           "submittedAt": "2026-05-20T02:49:38.000Z",
           "runtime": "14 ms",
           "memory": "88.4 MB"
+        },
+        {
+          "id": 2007751930,
+          "language": "cpp",
+          "submittedAt": "2026-05-20T02:56:23.000Z",
+          "runtime": "3 ms",
+          "memory": "85.9 MB"
         }
       ],
       "difficulty": "Medium",
