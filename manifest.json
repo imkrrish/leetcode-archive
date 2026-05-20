@@ -2532,6 +2532,29 @@
         "Linked List",
         "Recursion"
       ]
+    },
+    {
+      "frontendId": "141",
+      "slug": "linked-list-cycle",
+      "title": "Linked List Cycle",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2008098844,
+          "language": "cpp",
+          "submittedAt": "2026-05-20T11:24:26.000Z",
+          "runtime": "10 ms",
+          "memory": "11.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ]
     }
   ]
 }
