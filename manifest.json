@@ -2480,6 +2480,29 @@
         "Array",
         "Binary Search"
       ]
+    },
+    {
+      "frontendId": "2657",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2007749400,
+          "language": "cpp",
+          "submittedAt": "2026-05-20T02:49:38.000Z",
+          "runtime": "14 ms",
+          "memory": "88.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation"
+      ]
     }
   ]
 }
