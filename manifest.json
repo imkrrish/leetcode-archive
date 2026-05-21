@@ -2611,6 +2611,30 @@
         "Design",
         "Trie"
       ]
+    },
+    {
+      "frontendId": "3043",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "title": "Find the Length of the Longest Common Prefix",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2009301642,
+          "language": "cpp",
+          "submittedAt": "2026-05-21T18:21:24.000Z",
+          "runtime": "124 ms",
+          "memory": "160.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ]
     }
   ]
 }
