@@ -2659,6 +2659,28 @@
         "Stack",
         "Recursion"
       ]
+    },
+    {
+      "frontendId": "19",
+      "slug": "remove-nth-node-from-end-of-list",
+      "title": "Remove Nth Node From End of List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2009335858,
+          "language": "cpp",
+          "submittedAt": "2026-05-21T19:07:26.000Z",
+          "runtime": "0 ms",
+          "memory": "14.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
     }
   ]
 }
