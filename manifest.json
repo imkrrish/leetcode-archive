@@ -2587,6 +2587,30 @@
         "Trie",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "208",
+      "slug": "implement-trie-prefix-tree",
+      "title": "Implement Trie (Prefix Tree)",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2009279284,
+          "language": "cpp",
+          "submittedAt": "2026-05-21T17:57:16.000Z",
+          "runtime": "23 ms",
+          "memory": "50.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
     }
   ]
 }
