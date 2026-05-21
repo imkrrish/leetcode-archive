@@ -2562,6 +2562,31 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "212",
+      "slug": "word-search-ii",
+      "title": "Word Search II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2009258621,
+          "language": "cpp",
+          "submittedAt": "2026-05-21T17:34:39.000Z",
+          "runtime": "351 ms",
+          "memory": "19 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Trie",
+        "Matrix"
+      ]
     }
   ]
 }
