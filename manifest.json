@@ -2473,6 +2473,13 @@
           "submittedAt": "2026-05-19T17:20:05.000Z",
           "runtime": "0 ms",
           "memory": "15.3 MB"
+        },
+        {
+          "id": 2009891773,
+          "language": "cpp",
+          "submittedAt": "2026-05-22T11:59:00.000Z",
+          "runtime": "0 ms",
+          "memory": "15.2 MB"
         }
       ],
       "difficulty": "Medium",
