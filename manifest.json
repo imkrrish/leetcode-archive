@@ -2688,6 +2688,27 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "1752",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "title": "Check if Array Is Sorted and Rotated",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2011004737,
+          "language": "cpp",
+          "submittedAt": "2026-05-23T17:04:02.000Z",
+          "runtime": "0 ms",
+          "memory": "11.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ]
     }
   ]
 }
