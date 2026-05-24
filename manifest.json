@@ -2709,6 +2709,29 @@
       "topics": [
         "Array"
       ]
+    },
+    {
+      "frontendId": "1340",
+      "slug": "jump-game-v",
+      "title": "Jump Game V",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2011950496,
+          "language": "cpp",
+          "submittedAt": "2026-05-24T17:52:31.000Z",
+          "runtime": "4 ms",
+          "memory": "19 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ]
     }
   ]
 }
