@@ -2732,6 +2732,30 @@
         "Dynamic Programming",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1871",
+      "slug": "jump-game-vii",
+      "title": "Jump Game VII",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2012906596,
+          "language": "cpp",
+          "submittedAt": "2026-05-25T18:11:22.000Z",
+          "runtime": "8 ms",
+          "memory": "29.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
     }
   ]
 }
