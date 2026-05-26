@@ -2756,6 +2756,28 @@
         "Sliding Window",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "3120",
+      "slug": "count-the-number-of-special-characters-i",
+      "title": "Count the Number of Special Characters I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2013860318,
+          "language": "cpp",
+          "submittedAt": "2026-05-26T17:43:44.000Z",
+          "runtime": "0 ms",
+          "memory": "9.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
     }
   ]
 }
