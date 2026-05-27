@@ -2778,6 +2778,28 @@
         "Hash Table",
         "String"
       ]
+    },
+    {
+      "frontendId": "3121",
+      "slug": "count-the-number-of-special-characters-ii",
+      "title": "Count the Number of Special Characters II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2014804688,
+          "language": "cpp",
+          "submittedAt": "2026-05-27T17:32:26.000Z",
+          "runtime": "79 ms",
+          "memory": "24.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
     }
   ]
 }
