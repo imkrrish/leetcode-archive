@@ -2800,6 +2800,29 @@
         "Hash Table",
         "String"
       ]
+    },
+    {
+      "frontendId": "3093",
+      "slug": "longest-common-suffix-queries",
+      "title": "Longest Common Suffix Queries",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2015664884,
+          "language": "cpp",
+          "submittedAt": "2026-05-28T16:24:06.000Z",
+          "runtime": "878 ms",
+          "memory": "626.8 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
     }
   ]
 }
