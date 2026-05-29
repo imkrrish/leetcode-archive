@@ -2823,6 +2823,28 @@
         "String",
         "Trie"
       ]
+    },
+    {
+      "frontendId": "3300",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2016628331,
+          "language": "cpp",
+          "submittedAt": "2026-05-29T17:14:13.000Z",
+          "runtime": "0 ms",
+          "memory": "27.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Math"
+      ]
     }
   ]
 }
