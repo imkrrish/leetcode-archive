@@ -2845,6 +2845,31 @@
         "Array",
         "Math"
       ]
+    },
+    {
+      "frontendId": "3161",
+      "slug": "block-placement-queries",
+      "title": "Block Placement Queries",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2017478471,
+          "language": "cpp",
+          "submittedAt": "2026-05-30T18:01:11.000Z",
+          "runtime": "584 ms",
+          "memory": "366.3 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Ordered Set"
+      ]
     }
   ]
 }
