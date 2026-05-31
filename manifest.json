@@ -2870,6 +2870,29 @@
         "Segment Tree",
         "Ordered Set"
       ]
+    },
+    {
+      "frontendId": "2126",
+      "slug": "destroying-asteroids",
+      "title": "Destroying Asteroids",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2018367755,
+          "language": "cpp",
+          "submittedAt": "2026-05-31T17:16:49.000Z",
+          "runtime": "39 ms",
+          "memory": "106.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
