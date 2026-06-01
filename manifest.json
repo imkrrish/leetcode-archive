@@ -2940,6 +2940,30 @@
         "Breadth-First Search",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "23",
+      "slug": "merge-k-sorted-lists",
+      "title": "Merge k Sorted Lists",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2019498691,
+          "language": "cpp",
+          "submittedAt": "2026-06-01T19:29:27.000Z",
+          "runtime": "3 ms",
+          "memory": "18.6 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
     }
   ]
 }
