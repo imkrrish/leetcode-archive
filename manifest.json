@@ -2893,6 +2893,29 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "2144",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2019343377,
+          "language": "cpp",
+          "submittedAt": "2026-06-01T16:56:31.000Z",
+          "runtime": "0 ms",
+          "memory": "14.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
