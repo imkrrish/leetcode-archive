@@ -2916,6 +2916,30 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "226",
+      "slug": "invert-binary-tree",
+      "title": "Invert Binary Tree",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2019483217,
+          "language": "cpp",
+          "submittedAt": "2026-06-01T19:07:20.000Z",
+          "runtime": "0 ms",
+          "memory": "12.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
     }
   ]
 }
