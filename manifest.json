@@ -2989,6 +2989,31 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "3635",
+      "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+      "title": "Earliest Finish Time for Land and Water Rides II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2021549060,
+          "language": "cpp",
+          "submittedAt": "2026-06-03T18:03:08.000Z",
+          "runtime": "4 ms",
+          "memory": "238.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
