@@ -3014,6 +3014,29 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "3751",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "title": "Total Waviness of Numbers in Range I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2022582083,
+          "language": "cpp",
+          "submittedAt": "2026-06-04T18:06:29.000Z",
+          "runtime": "44 ms",
+          "memory": "10.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Enumeration"
+      ]
     }
   ]
 }
