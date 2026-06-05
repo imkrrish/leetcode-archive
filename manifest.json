@@ -3037,6 +3037,28 @@
         "Dynamic Programming",
         "Enumeration"
       ]
+    },
+    {
+      "frontendId": "3753",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "title": "Total Waviness of Numbers in Range II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2023479939,
+          "language": "cpp",
+          "submittedAt": "2026-06-05T16:47:32.000Z",
+          "runtime": "20 ms",
+          "memory": "10.5 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Math",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
