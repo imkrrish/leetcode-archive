@@ -3059,6 +3059,28 @@
         "Math",
         "Dynamic Programming"
       ]
+    },
+    {
+      "frontendId": "2574",
+      "slug": "left-and-right-sum-differences",
+      "title": "Left and Right Sum Differences",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2024641371,
+          "language": "cpp",
+          "submittedAt": "2026-06-06T18:17:31.000Z",
+          "runtime": "0 ms",
+          "memory": "15 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
     }
   ]
 }
