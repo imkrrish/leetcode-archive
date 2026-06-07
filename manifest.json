@@ -3081,6 +3081,30 @@
         "Array",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "2196",
+      "slug": "create-binary-tree-from-descriptions",
+      "title": "Create Binary Tree From Descriptions",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2025592424,
+          "language": "cpp",
+          "submittedAt": "2026-06-07T17:36:00.000Z",
+          "runtime": "203 ms",
+          "memory": "279.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Binary Tree"
+      ]
     }
   ]
 }
