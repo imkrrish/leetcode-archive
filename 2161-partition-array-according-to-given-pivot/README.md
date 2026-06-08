@@ -82,7 +82,9 @@ The relative ordering of the elements less than and greater than pivot is also m
 
 | Language | Runtime | Memory | Submitted |
 | -------- | ------- | ------ | --------- |
+| [C++](solution.cpp) | 7 ms | 127.7 MB | 2026-06-08 |
 | [C++](solution.cpp) | 3 ms | 133.3 MB | 2026-06-08 |
 
 ## Files
+- [solution.cpp](solution.cpp)
 - [solution.cpp](solution.cpp)
