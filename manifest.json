@@ -3105,6 +3105,29 @@
         "Tree",
         "Binary Tree"
       ]
+    },
+    {
+      "frontendId": "2161",
+      "slug": "partition-array-according-to-given-pivot",
+      "title": "Partition Array According to Given Pivot",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2026641437,
+          "language": "cpp",
+          "submittedAt": "2026-06-08T17:17:58.000Z",
+          "runtime": "3 ms",
+          "memory": "133.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ]
     }
   ]
 }
