@@ -3135,6 +3135,28 @@
         "Two Pointers",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "3689",
+      "slug": "maximum-total-subarray-value-i",
+      "title": "Maximum Total Subarray Value I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2027761707,
+          "language": "cpp",
+          "submittedAt": "2026-06-09T16:53:44.000Z",
+          "runtime": "0 ms",
+          "memory": "103.7 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
     }
   ]
 }
