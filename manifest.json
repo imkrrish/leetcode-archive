@@ -3157,6 +3157,30 @@
         "Array",
         "Greedy"
       ]
+    },
+    {
+      "frontendId": "3691",
+      "slug": "maximum-total-subarray-value-ii",
+      "title": "Maximum Total Subarray Value II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2028922544,
+          "language": "cpp",
+          "submittedAt": "2026-06-10T17:37:21.000Z",
+          "runtime": "680 ms",
+          "memory": "162.8 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Segment Tree",
+        "Heap (Priority Queue)"
+      ]
     }
   ]
 }
