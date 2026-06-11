@@ -3181,6 +3181,29 @@
         "Segment Tree",
         "Heap (Priority Queue)"
       ]
+    },
+    {
+      "frontendId": "3558",
+      "slug": "number-of-ways-to-assign-edge-weights-i",
+      "title": "Number of Ways to Assign Edge Weights I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2030003241,
+          "language": "cpp",
+          "submittedAt": "2026-06-11T17:13:12.000Z",
+          "runtime": "495 ms",
+          "memory": "395.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Tree",
+        "Depth-First Search"
+      ]
     }
   ]
 }
