@@ -3204,6 +3204,33 @@
         "Tree",
         "Depth-First Search"
       ]
+    },
+    {
+      "frontendId": "1483",
+      "slug": "kth-ancestor-of-a-tree-node",
+      "title": "Kth Ancestor of a Tree Node",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2030751967,
+          "language": "cpp",
+          "submittedAt": "2026-06-12T11:27:37.000Z",
+          "runtime": "63 ms",
+          "memory": "122.8 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design"
+      ]
     }
   ]
 }
