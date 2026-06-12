@@ -3231,6 +3231,32 @@
         "Breadth-First Search",
         "Design"
       ]
+    },
+    {
+      "frontendId": "3559",
+      "slug": "number-of-ways-to-assign-edge-weights-ii",
+      "title": "Number of Ways to Assign Edge Weights II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2031109198,
+          "language": "cpp",
+          "submittedAt": "2026-06-12T18:18:45.000Z",
+          "runtime": "550 ms",
+          "memory": "422.3 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Tree",
+        "Depth-First Search"
+      ]
     }
   ]
 }
