@@ -3257,6 +3257,29 @@
         "Tree",
         "Depth-First Search"
       ]
+    },
+    {
+      "frontendId": "3838",
+      "slug": "weighted-word-mapping",
+      "title": "Weighted Word Mapping",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2032040852,
+          "language": "cpp",
+          "submittedAt": "2026-06-13T17:48:21.000Z",
+          "runtime": "0 ms",
+          "memory": "43.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
     }
   ]
 }
