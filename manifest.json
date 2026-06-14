@@ -3280,6 +3280,29 @@
         "String",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "2130",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "title": "Maximum Twin Sum of a Linked List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2032458740,
+          "language": "cpp",
+          "submittedAt": "2026-06-14T05:24:50.000Z",
+          "runtime": "1 ms",
+          "memory": "124.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack"
+      ]
     }
   ]
 }
