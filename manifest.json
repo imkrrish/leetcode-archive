@@ -3303,6 +3303,28 @@
         "Two Pointers",
         "Stack"
       ]
+    },
+    {
+      "frontendId": "2095",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "title": "Delete the Middle Node of a Linked List",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2033811665,
+          "language": "cpp",
+          "submittedAt": "2026-06-15T10:24:01.000Z",
+          "runtime": "1 ms",
+          "memory": "312.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
     }
   ]
 }
