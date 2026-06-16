@@ -3325,6 +3325,28 @@
         "Linked List",
         "Two Pointers"
       ]
+    },
+    {
+      "frontendId": "3612",
+      "slug": "process-string-with-special-operations-i",
+      "title": "Process String with Special Operations I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2035468545,
+          "language": "cpp",
+          "submittedAt": "2026-06-16T17:23:57.000Z",
+          "runtime": "0 ms",
+          "memory": "39.7 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Simulation"
+      ]
     }
   ]
 }
