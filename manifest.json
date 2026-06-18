@@ -3369,6 +3369,27 @@
         "String",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "1344",
+      "slug": "angle-between-hands-of-a-clock",
+      "title": "Angle Between Hands of a Clock",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2037829648,
+          "language": "cpp",
+          "submittedAt": "2026-06-18T16:58:33.000Z",
+          "runtime": "0 ms",
+          "memory": "8.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Math"
+      ]
     }
   ]
 }
