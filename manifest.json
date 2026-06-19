@@ -3390,6 +3390,28 @@
       "topics": [
         "Math"
       ]
+    },
+    {
+      "frontendId": "1732",
+      "slug": "find-the-highest-altitude",
+      "title": "Find the Highest Altitude",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2038991198,
+          "language": "cpp",
+          "submittedAt": "2026-06-19T17:09:24.000Z",
+          "runtime": "0 ms",
+          "memory": "10.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
     }
   ]
 }
