@@ -3412,6 +3412,29 @@
         "Array",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "1840",
+      "slug": "maximum-building-height",
+      "title": "Maximum Building Height",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2040176744,
+          "language": "cpp",
+          "submittedAt": "2026-06-20T18:19:40.000Z",
+          "runtime": "51 ms",
+          "memory": "106.6 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ]
     }
   ]
 }
