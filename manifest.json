@@ -3435,6 +3435,30 @@
         "Math",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1833",
+      "slug": "maximum-ice-cream-bars",
+      "title": "Maximum Ice Cream Bars",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2041281778,
+          "language": "cpp",
+          "submittedAt": "2026-06-21T17:56:26.000Z",
+          "runtime": "36 ms",
+          "memory": "80.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Counting Sort"
+      ]
     }
   ]
 }
