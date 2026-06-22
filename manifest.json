@@ -3459,6 +3459,29 @@
         "Sorting",
         "Counting Sort"
       ]
+    },
+    {
+      "frontendId": "1189",
+      "slug": "maximum-number-of-balloons",
+      "title": "Maximum Number of Balloons",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2042474084,
+          "language": "cpp",
+          "submittedAt": "2026-06-22T17:18:41.000Z",
+          "runtime": "0 ms",
+          "memory": "8.8 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
     }
   ]
 }
