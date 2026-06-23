@@ -3482,6 +3482,28 @@
         "String",
         "Counting"
       ]
+    },
+    {
+      "frontendId": "3699",
+      "slug": "number-of-zigzag-arrays-i",
+      "title": "Number of ZigZag Arrays I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2043215289,
+          "language": "cpp",
+          "submittedAt": "2026-06-23T09:46:28.000Z",
+          "runtime": "696 ms",
+          "memory": "18.8 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Dynamic Programming",
+        "Prefix Sum"
+      ]
     }
   ]
 }
