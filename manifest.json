@@ -3504,6 +3504,28 @@
         "Dynamic Programming",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "3700",
+      "slug": "number-of-zigzag-arrays-ii",
+      "title": "Number of ZigZag Arrays II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2044482329,
+          "language": "cpp",
+          "submittedAt": "2026-06-24T10:24:08.000Z",
+          "runtime": "501 ms",
+          "memory": "73 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Math",
+        "Dynamic Programming"
+      ]
     }
   ]
 }
