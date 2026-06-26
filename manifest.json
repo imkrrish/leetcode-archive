@@ -3553,6 +3553,32 @@
         "Counting",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "3739",
+      "slug": "count-subarrays-with-majority-element-ii",
+      "title": "Count Subarrays With Majority Element II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2046726084,
+          "language": "cpp",
+          "submittedAt": "2026-06-26T10:50:11.000Z",
+          "runtime": "76 ms",
+          "memory": "114.9 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Segment Tree",
+        "Merge Sort",
+        "Prefix Sum"
+      ]
     }
   ]
 }
