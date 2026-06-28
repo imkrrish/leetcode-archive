@@ -3625,6 +3625,29 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1846",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2049119956,
+          "language": "cpp",
+          "submittedAt": "2026-06-28T16:10:01.000Z",
+          "runtime": "11 ms",
+          "memory": "55.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
