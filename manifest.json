@@ -3602,6 +3602,29 @@
         "Hash Table",
         "Enumeration"
       ]
+    },
+    {
+      "frontendId": "3974",
+      "slug": "maximum-total-sum-of-k-selected-elements",
+      "title": "Maximum Total Sum of K Selected Elements",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2048374722,
+          "language": "cpp",
+          "submittedAt": "2026-06-28T02:40:04.000Z",
+          "runtime": "71 ms",
+          "memory": "186.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
     }
   ]
 }
