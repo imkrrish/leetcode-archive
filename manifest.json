@@ -3648,6 +3648,29 @@
         "Greedy",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "167",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2049877399,
+          "language": "cpp",
+          "submittedAt": "2026-06-29T09:37:25.000Z",
+          "runtime": "0 ms",
+          "memory": "19.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ]
     }
   ]
 }
