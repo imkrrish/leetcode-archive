@@ -3671,6 +3671,28 @@
         "Two Pointers",
         "Binary Search"
       ]
+    },
+    {
+      "frontendId": "1967",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2050200678,
+          "language": "cpp",
+          "submittedAt": "2026-06-29T15:10:06.000Z",
+          "runtime": "0 ms",
+          "memory": "11.7 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String"
+      ]
     }
   ]
 }
