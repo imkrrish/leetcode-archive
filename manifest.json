@@ -3693,6 +3693,29 @@
         "Array",
         "String"
       ]
+    },
+    {
+      "frontendId": "1358",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "title": "Number of Substrings Containing All Three Characters",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2051431630,
+          "language": "cpp",
+          "submittedAt": "2026-06-30T16:23:26.000Z",
+          "runtime": "3 ms",
+          "memory": "11.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
     }
   ]
 }
