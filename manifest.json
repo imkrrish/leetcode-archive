@@ -3716,6 +3716,32 @@
         "String",
         "Sliding Window"
       ]
+    },
+    {
+      "frontendId": "2812",
+      "slug": "find-the-safest-path-in-a-grid",
+      "title": "Find the Safest Path in a Grid",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2052683197,
+          "language": "cpp",
+          "submittedAt": "2026-07-01T17:55:35.000Z",
+          "runtime": "558 ms",
+          "memory": "217.1 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
     }
   ]
 }
