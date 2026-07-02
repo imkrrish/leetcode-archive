@@ -3742,6 +3742,32 @@
         "Heap (Priority Queue)",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "3286",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "title": "Find a Safe Walk Through a Grid",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2053852387,
+          "language": "cpp",
+          "submittedAt": "2026-07-02T17:50:35.000Z",
+          "runtime": "15 ms",
+          "memory": "33.6 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
     }
   ]
 }
