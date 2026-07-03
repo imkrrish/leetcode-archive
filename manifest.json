@@ -3768,6 +3768,33 @@
         "Matrix",
         "Shortest Path"
       ]
+    },
+    {
+      "frontendId": "3620",
+      "slug": "network-recovery-pathways",
+      "title": "Network Recovery Pathways",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2055053850,
+          "language": "cpp",
+          "submittedAt": "2026-07-03T19:24:34.000Z",
+          "runtime": "375 ms",
+          "memory": "379.7 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Graph Theory",
+        "Topological Sort",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ]
     }
   ]
 }
