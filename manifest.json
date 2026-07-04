@@ -3795,6 +3795,30 @@
         "Heap (Priority Queue)",
         "Shortest Path"
       ]
+    },
+    {
+      "frontendId": "2492",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2055912653,
+          "language": "cpp",
+          "submittedAt": "2026-07-04T15:15:33.000Z",
+          "runtime": "99 ms",
+          "memory": "139.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
     }
   ]
 }
