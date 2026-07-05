@@ -3819,6 +3819,29 @@
         "Union-Find",
         "Graph Theory"
       ]
+    },
+    {
+      "frontendId": "1301",
+      "slug": "number-of-paths-with-max-score",
+      "title": "Number of Paths with Max Score",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2057122501,
+          "language": "cpp",
+          "submittedAt": "2026-07-05T16:32:45.000Z",
+          "runtime": "9 ms",
+          "memory": "11.7 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
     }
   ]
 }
