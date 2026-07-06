@@ -6,7 +6,7 @@ Each problem includes the original problem statement, constraints, metadata, and
 
 ## Links
 
-- 💻 **LeetCode Profile:** https://leetcode.com/u/<your-username>/
+- 💻 **LeetCode Profile:** https://leetcode.com/u/imkrrish/<your-username>/
 - 🌐 **Portfolio:** https://ikrishan.com
 
 > [!NOTE]
