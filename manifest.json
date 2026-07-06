@@ -3842,6 +3842,28 @@
         "Dynamic Programming",
         "Matrix"
       ]
+    },
+    {
+      "frontendId": "1288",
+      "slug": "remove-covered-intervals",
+      "title": "Remove Covered Intervals",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2058361825,
+          "language": "cpp",
+          "submittedAt": "2026-07-06T17:26:19.000Z",
+          "runtime": "4 ms",
+          "memory": "15 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
     }
   ]
 }
