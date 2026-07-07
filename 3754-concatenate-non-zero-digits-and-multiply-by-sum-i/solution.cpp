@@ -1,29 +1,22 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        vector<int> digits;
+        long long x = 0;
+        long long sum = 0;
+        long long place = 1;
 
         while (n > 0) {
             int digit = n % 10;
-            if (digit > 0) {
-                digits.push_back(digit);
+
+            if (digit != 0) {
+                x += digit * place;
+                place *= 10;
+                sum += digit;
             }
+
             n /= 10;
         }
 
-        long long sum = 0;
-
-        for (int& digit : digits) {
-            sum += digit;
-        }
-
-        long long num = 0;
-        if (!digits.empty()) {
-            for (int i = digits.size() - 1; i >= 0; i--) {
-                num = num * 10 + digits[i];
-            }
-        }
-
-        return num * sum;
+        return x * sum;
     }
 };
