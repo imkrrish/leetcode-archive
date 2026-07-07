@@ -3864,6 +3864,27 @@
         "Array",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "3754",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2058998182,
+          "language": "cpp",
+          "submittedAt": "2026-07-07T08:08:51.000Z",
+          "runtime": "4 ms",
+          "memory": "9.1 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ]
     }
   ]
 }
