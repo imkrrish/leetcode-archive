@@ -3892,6 +3892,29 @@
       "topics": [
         "Math"
       ]
+    },
+    {
+      "frontendId": "3756",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2060432127,
+          "language": "cpp",
+          "submittedAt": "2026-07-08T11:24:11.000Z",
+          "runtime": "38 ms",
+          "memory": "155.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "String",
+        "Prefix Sum"
+      ]
     }
   ]
 }
