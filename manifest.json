@@ -3915,6 +3915,31 @@
         "String",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "3532",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "title": "Path Existence Queries in a Graph I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2062177040,
+          "language": "cpp",
+          "submittedAt": "2026-07-09T19:33:13.000Z",
+          "runtime": "2 ms",
+          "memory": "224.2 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
     }
   ]
 }
