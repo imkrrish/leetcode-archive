@@ -3940,6 +3940,34 @@
         "Union-Find",
         "Graph Theory"
       ]
+    },
+    {
+      "frontendId": "3534",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "title": "Path Existence Queries in a Graph II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2063096926,
+          "language": "cpp",
+          "submittedAt": "2026-07-10T16:51:23.000Z",
+          "runtime": "383 ms",
+          "memory": "397.9 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Graph Theory",
+        "Sorting"
+      ]
     }
   ]
 }
