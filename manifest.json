@@ -3968,6 +3968,30 @@
         "Graph Theory",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "2685",
+      "slug": "count-the-number-of-complete-components",
+      "title": "Count the Number of Complete Components",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2064139236,
+          "language": "cpp",
+          "submittedAt": "2026-07-11T17:37:41.000Z",
+          "runtime": "18 ms",
+          "memory": "117.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
     }
   ]
 }
