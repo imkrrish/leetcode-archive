@@ -4015,6 +4015,27 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1291",
+      "slug": "sequential-digits",
+      "title": "Sequential Digits",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2066492438,
+          "language": "cpp",
+          "submittedAt": "2026-07-13T17:49:08.000Z",
+          "runtime": "0 ms",
+          "memory": "8.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Enumeration"
+      ]
     }
   ]
 }
