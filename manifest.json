@@ -4060,6 +4060,28 @@
         "Dynamic Programming",
         "Number Theory"
       ]
+    },
+    {
+      "frontendId": "3658",
+      "slug": "gcd-of-odd-and-even-sums",
+      "title": "GCD of Odd and Even Sums",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2068873790,
+          "language": "cpp",
+          "submittedAt": "2026-07-15T16:37:49.000Z",
+          "runtime": "0 ms",
+          "memory": "8.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ]
     }
   ]
 }
