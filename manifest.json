@@ -4082,6 +4082,32 @@
         "Math",
         "Number Theory"
       ]
+    },
+    {
+      "frontendId": "3867",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "title": "Sum of GCD of Formed Pairs",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2070271909,
+          "language": "cpp",
+          "submittedAt": "2026-07-16T18:04:30.000Z",
+          "runtime": "74 ms",
+          "memory": "162.9 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers",
+        "Sorting",
+        "Simulation",
+        "Number Theory"
+      ]
     }
   ]
 }
