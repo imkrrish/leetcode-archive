@@ -4108,6 +4108,34 @@
         "Simulation",
         "Number Theory"
       ]
+    },
+    {
+      "frontendId": "3312",
+      "slug": "sorted-gcd-pair-queries",
+      "title": "Sorted GCD Pair Queries",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2071539716,
+          "language": "cpp",
+          "submittedAt": "2026-07-17T19:44:31.000Z",
+          "runtime": "113 ms",
+          "memory": "130 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Combinatorics",
+        "Counting",
+        "Number Theory",
+        "Prefix Sum"
+      ]
     }
   ]
 }
