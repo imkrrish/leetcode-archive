@@ -4136,6 +4136,29 @@
         "Number Theory",
         "Prefix Sum"
       ]
+    },
+    {
+      "frontendId": "1979",
+      "slug": "find-greatest-common-divisor-of-array",
+      "title": "Find Greatest Common Divisor of Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2072594993,
+          "language": "cpp",
+          "submittedAt": "2026-07-18T17:03:59.000Z",
+          "runtime": "0 ms",
+          "memory": "16.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ]
     }
   ]
 }
