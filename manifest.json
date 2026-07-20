@@ -4183,6 +4183,29 @@
         "Greedy",
         "Monotonic Stack"
       ]
+    },
+    {
+      "frontendId": "1260",
+      "slug": "shift-2d-grid",
+      "title": "Shift 2D Grid",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2074954920,
+          "language": "cpp",
+          "submittedAt": "2026-07-20T18:06:22.000Z",
+          "runtime": "7 ms",
+          "memory": "18.2 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
     }
   ]
 }
