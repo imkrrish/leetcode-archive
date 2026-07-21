@@ -4206,6 +4206,28 @@
         "Matrix",
         "Simulation"
       ]
+    },
+    {
+      "frontendId": "3499",
+      "slug": "maximize-active-section-with-trade-i",
+      "title": "Maximize Active Section with Trade I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2076216221,
+          "language": "cpp",
+          "submittedAt": "2026-07-21T17:53:30.000Z",
+          "runtime": "75 ms",
+          "memory": "80.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Enumeration"
+      ]
     }
   ]
 }
