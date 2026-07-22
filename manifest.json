@@ -4235,6 +4235,30 @@
         "String",
         "Enumeration"
       ]
+    },
+    {
+      "frontendId": "3501",
+      "slug": "maximize-active-section-with-trade-ii",
+      "title": "Maximize Active Section with Trade II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2077450909,
+          "language": "cpp",
+          "submittedAt": "2026-07-22T17:17:29.000Z",
+          "runtime": "209 ms",
+          "memory": "259.1 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Segment Tree"
+      ]
     }
   ]
 }
