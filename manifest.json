@@ -4221,6 +4221,13 @@
           "submittedAt": "2026-07-21T17:53:30.000Z",
           "runtime": "75 ms",
           "memory": "80.8 MB"
+        },
+        {
+          "id": 2077450024,
+          "language": "cpp",
+          "submittedAt": "2026-07-22T17:16:53.000Z",
+          "runtime": "85 ms",
+          "memory": "80.8 MB"
         }
       ],
       "difficulty": "Medium",
