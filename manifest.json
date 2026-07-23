@@ -4259,6 +4259,29 @@
         "Binary Search",
         "Segment Tree"
       ]
+    },
+    {
+      "frontendId": "3513",
+      "slug": "number-of-unique-xor-triplets-i",
+      "title": "Number of Unique XOR Triplets I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2078831438,
+          "language": "cpp",
+          "submittedAt": "2026-07-23T19:38:58.000Z",
+          "runtime": "0 ms",
+          "memory": "198.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Bit Manipulation"
+      ]
     }
   ]
 }
