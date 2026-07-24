@@ -4282,6 +4282,30 @@
         "Math",
         "Bit Manipulation"
       ]
+    },
+    {
+      "frontendId": "3514",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "title": "Number of Unique XOR Triplets II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2080007637,
+          "language": "cpp",
+          "submittedAt": "2026-07-24T19:09:39.000Z",
+          "runtime": "1899 ms",
+          "memory": "98.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Bit Manipulation",
+        "Enumeration"
+      ]
     }
   ]
 }
