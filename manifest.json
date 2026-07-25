@@ -4306,6 +4306,28 @@
         "Bit Manipulation",
         "Enumeration"
       ]
+    },
+    {
+      "frontendId": "3536",
+      "slug": "maximum-product-of-two-digits",
+      "title": "Maximum Product of Two Digits",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2081213542,
+          "language": "cpp",
+          "submittedAt": "2026-07-25T20:19:49.000Z",
+          "runtime": "0 ms",
+          "memory": "8.5 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Sorting"
+      ]
     }
   ]
 }
