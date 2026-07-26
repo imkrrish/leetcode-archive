@@ -4328,6 +4328,29 @@
         "Math",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "628",
+      "slug": "maximum-product-of-three-numbers",
+      "title": "Maximum Product of Three Numbers",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2082496366,
+          "language": "cpp",
+          "submittedAt": "2026-07-26T19:04:57.000Z",
+          "runtime": "11 ms",
+          "memory": "31.6 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting"
+      ]
     }
   ]
 }
