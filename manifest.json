@@ -4351,6 +4351,29 @@
         "Math",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "1464",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "title": "Maximum Product of Two Elements in an Array",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2083589592,
+          "language": "cpp",
+          "submittedAt": "2026-07-27T15:52:38.000Z",
+          "runtime": "0 ms",
+          "memory": "13.4 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
     }
   ]
 }
