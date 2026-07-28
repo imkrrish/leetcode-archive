@@ -4374,6 +4374,29 @@
         "Sorting",
         "Heap (Priority Queue)"
       ]
+    },
+    {
+      "frontendId": "3517",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "title": "Smallest Palindromic Rearrangement I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2085269513,
+          "language": "cpp",
+          "submittedAt": "2026-07-28T19:02:28.000Z",
+          "runtime": "75 ms",
+          "memory": "53.8 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Sorting",
+        "Counting Sort"
+      ]
     }
   ]
 }
