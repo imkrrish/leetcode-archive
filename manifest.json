@@ -4397,6 +4397,31 @@
         "Sorting",
         "Counting Sort"
       ]
+    },
+    {
+      "frontendId": "3518",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "title": "Smallest Palindromic Rearrangement II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2086432640,
+          "language": "cpp",
+          "submittedAt": "2026-07-29T16:48:44.000Z",
+          "runtime": "11 ms",
+          "memory": "16.8 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ]
     }
   ]
 }
