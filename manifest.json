@@ -4422,6 +4422,29 @@
         "Combinatorics",
         "Counting"
       ]
+    },
+    {
+      "frontendId": "3014",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2087978636,
+          "language": "cpp",
+          "submittedAt": "2026-07-30T19:01:47.000Z",
+          "runtime": "0 ms",
+          "memory": "8.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy"
+      ]
     }
   ]
 }
