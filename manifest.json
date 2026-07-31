@@ -4445,6 +4445,31 @@
         "String",
         "Greedy"
       ]
+    },
+    {
+      "frontendId": "3016",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2089011389,
+          "language": "cpp",
+          "submittedAt": "2026-07-31T16:06:53.000Z",
+          "runtime": "13 ms",
+          "memory": "25.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ]
     }
   ]
 }
