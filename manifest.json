@@ -4470,6 +4470,33 @@
         "Sorting",
         "Counting"
       ]
+    },
+    {
+      "frontendId": "486",
+      "slug": "predict-the-winner",
+      "title": "Predict the Winner",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2089646430,
+          "language": "cpp",
+          "submittedAt": "2026-08-01T07:36:40.000Z",
+          "runtime": "0 ms",
+          "memory": "9.6 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Minimax",
+        "Game Theory",
+        "Zero-Sum Game"
+      ]
     }
   ]
 }
