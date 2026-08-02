@@ -4497,6 +4497,32 @@
         "Game Theory",
         "Zero-Sum Game"
       ]
+    },
+    {
+      "frontendId": "877",
+      "slug": "stone-game",
+      "title": "Stone Game",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2091550082,
+          "language": "cpp",
+          "submittedAt": "2026-08-02T15:37:27.000Z",
+          "runtime": "0 ms",
+          "memory": "10.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Minimax",
+        "Game Theory",
+        "Zero-Sum Game"
+      ]
     }
   ]
 }
