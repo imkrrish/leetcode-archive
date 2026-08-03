@@ -4523,6 +4523,32 @@
         "Game Theory",
         "Zero-Sum Game"
       ]
+    },
+    {
+      "frontendId": "1406",
+      "slug": "stone-game-iii",
+      "title": "Stone Game III",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2092207744,
+          "language": "cpp",
+          "submittedAt": "2026-08-03T06:27:21.000Z",
+          "runtime": "65 ms",
+          "memory": "142.3 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Minimax",
+        "Game Theory",
+        "Zero-Sum Game"
+      ]
     }
   ]
 }
