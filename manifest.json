@@ -4572,6 +4572,29 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "3310",
+      "slug": "remove-methods-from-project",
+      "title": "Remove Methods From Project",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2095267511,
+          "language": "cpp",
+          "submittedAt": "2026-08-05T11:59:18.000Z",
+          "runtime": "167 ms",
+          "memory": "301.5 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ]
     }
   ]
 }
