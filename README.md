@@ -17,59 +17,63 @@ Each problem includes the original statement, constraints, metadata, and one or 
 
 | Metric | Count |
 | ------ | ----- |
-| **Total Solved** | **160** |
-| 🟢 Easy | 77 |
-| 🟡 Medium | 60 |
-| 🔴 Hard | 23 |
-| 📅 Last Sync | 18/7/2026, 10:41:10 pm |
+| **Total Solved** | **178** |
+| 🟢 Easy | 83 |
+| 🟡 Medium | 69 |
+| 🔴 Hard | 26 |
+| 📅 Last Sync | 5/8/2026, 5:32:51 pm |
 
 ## Language Used
 
 | Language | Solved |
 | -------- | ------ |
-| C++ | 154 |
+| C++ | 172 |
 | JavaScript | 11 |
 
 ## Topic Covered
 
 | Topic | Solved |
 | ----- | ------ |
-| Array | 90 |
-| Hash Table | 37 |
-| Sorting | 33 |
-| String | 29 |
-| Math | 29 |
+| Array | 100 |
+| Hash Table | 40 |
+| Sorting | 39 |
+| Math | 38 |
+| String | 36 |
 | Two Pointers | 28 |
-| Depth-First Search | 20 |
-| Dynamic Programming | 19 |
-| Breadth-First Search | 17 |
-| Binary Search | 16 |
+| Dynamic Programming | 22 |
+| Depth-First Search | 21 |
+| Breadth-First Search | 18 |
+| Binary Search | 17 |
+| Greedy | 17 |
 | Linked List | 16 |
 | Tree | 16 |
-| Greedy | 14 |
+| Simulation | 13 |
 | Binary Tree | 13 |
-| Simulation | 12 |
-| Recursion | 11 |
+| Recursion | 12 |
+| Bit Manipulation | 11 |
+| Heap (Priority Queue) | 10 |
+| Stack | 10 |
 | Prefix Sum | 10 |
-| Bit Manipulation | 9 |
-| Heap (Priority Queue) | 9 |
-| Stack | 9 |
-| Matrix | 8 |
+| Matrix | 9 |
+| Graph Theory | 9 |
 | Divide and Conquer | 8 |
-| Graph Theory | 8 |
-| Counting | 6 |
+| Counting | 8 |
 | Union-Find | 6 |
 | Number Theory | 6 |
 | Trie | 5 |
 | Sliding Window | 5 |
+| Segment Tree | 5 |
+| Enumeration | 5 |
 | Merge Sort | 4 |
-| Segment Tree | 4 |
 | Binary Search Tree | 3 |
-| Enumeration | 3 |
+| Counting Sort | 3 |
+| Minimax | 3 |
+| Game Theory | 3 |
+| Zero-Sum Game | 3 |
 | Ordered Set | 2 |
-| Counting Sort | 2 |
 | Design | 2 |
 | Shortest Path | 2 |
+| Combinatorics | 2 |
 | String Matching | 1 |
 | Memoization | 1 |
 | Doubly-Linked List | 1 |
@@ -78,7 +82,7 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | Backtracking | 1 |
 | Binary Indexed Tree | 1 |
 | Topological Sort | 1 |
-| Combinatorics | 1 |
+| Monotonic Stack | 1 |
 
 ## Problems Index
 
@@ -149,16 +153,21 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 424 | [Longest Repeating Character Replacement](./0424-longest-repeating-character-replacement/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | 435 | [Non-overlapping Intervals](./0435-non-overlapping-intervals/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 463 | [Island Perimeter](./0463-island-perimeter/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/island-perimeter/) |
+| 486 | [Predict the Winner](./0486-predict-the-winner/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/predict-the-winner/) |
 | 506 | [Relative Ranks](./0506-relative-ranks/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/relative-ranks/) |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/fibonacci-number/) |
 | 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) |
+| 628 | [Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) |
 | 682 | [Baseball Game](./0682-baseball-game/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/baseball-game/) |
 | 704 | [Binary Search](./0704-binary-search/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/binary-search/) |
 | 733 | [Flood Fill](./0733-flood-fill/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 877 | [Stone Game](./0877-stone-game/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/stone-game/) |
 | 897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/increasing-order-search-tree/) |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 | 1122 | [Relative Sort Array](./1122-relative-sort-array/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/relative-sort-array/) |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) |
+| 1260 | [Shift 2D Grid](./1260-shift-2d-grid/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) |
 | 1288 | [Remove Covered Intervals](./1288-remove-covered-intervals/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](./1290-convert-binary-number-in-a-linked-list-to-integer/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |
 | 1291 | [Sequential Digits](./1291-sequential-digits/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/sequential-digits/) |
@@ -170,6 +179,8 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 1345 | [Jump Game IV](./1345-jump-game-iv/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/jump-game-iv/) |
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) |
 | 1358 | [Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) |
+| 1406 | [Stone Game III](./1406-stone-game-iii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/stone-game-iii/) |
+| 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
 | 1483 | [Kth Ancestor of a Tree Node](./1483-kth-ancestor-of-a-tree-node/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) |
 | 1636 | [Sort Array by Increasing Frequency](./1636-sort-array-by-increasing-frequency/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665-minimum-initial-energy-to-finish-tasks/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) |
@@ -207,6 +218,8 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 2784 | [Check if Array is Good](./2784-check-if-array-is-good/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/check-if-array-is-good/) |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) |
 | 2974 | [Minimum Number Game](./2974-minimum-number-game/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-game/) |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) |
+| 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) |
 | 3043 | [Find the Length of the Longest Common Prefix](./3043-find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
 | 3093 | [Longest Common Suffix Queries](./3093-longest-common-suffix-queries/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/longest-common-suffix-queries/) |
@@ -216,11 +229,19 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 3286 | [Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300-minimum-element-after-replacement-with-digit-sum/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) |
 | 3304 | [Find the K-th Character in String Game I](./3304-find-the-k-th-character-in-string-game-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) |
+| 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
+| 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
+| 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
 | 3507 | [Minimum Pair Removal to Sort Array I](./3507-minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) |
+| 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
+| 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) |
+| 3518 | [Smallest Palindromic Rearrangement II](./3518-smallest-palindromic-rearrangement-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) |
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) |
 | 3558 | [Number of Ways to Assign Edge Weights I](./3558-number-of-ways-to-assign-edge-weights-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) |
@@ -235,6 +256,7 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 3691 | [Maximum Total Subarray Value II](./3691-maximum-total-subarray-value-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-ii/) |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/number-of-zigzag-arrays-i/) |
 | 3700 | [Number of ZigZag Arrays II](./3700-number-of-zigzag-arrays-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/find-missing-elements/) |
 | 3737 | [Count Subarrays With Majority Element I](./3737-count-subarrays-with-majority-element-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) |
