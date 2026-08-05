@@ -4549,6 +4549,29 @@
         "Game Theory",
         "Zero-Sum Game"
       ]
+    },
+    {
+      "frontendId": "3731",
+      "slug": "find-missing-elements",
+      "title": "Find Missing Elements",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2095264760,
+          "language": "cpp",
+          "submittedAt": "2026-08-05T11:56:16.000Z",
+          "runtime": "0 ms",
+          "memory": "32.3 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   ]
 }
