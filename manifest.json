@@ -4617,6 +4617,31 @@
         "Math",
         "Enumeration"
       ]
+    },
+    {
+      "frontendId": "3348",
+      "slug": "smallest-divisible-digit-product-ii",
+      "title": "Smallest Divisible Digit Product II",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2098100537,
+          "language": "cpp",
+          "submittedAt": "2026-08-07T15:12:34.000Z",
+          "runtime": "33 ms",
+          "memory": "52.6 MB"
+        }
+      ],
+      "difficulty": "Hard",
+      "topics": [
+        "Math",
+        "String",
+        "Backtracking",
+        "Greedy",
+        "Number Theory"
+      ]
     }
   ]
 }
