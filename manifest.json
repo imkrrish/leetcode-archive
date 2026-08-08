@@ -4642,6 +4642,30 @@
         "Greedy",
         "Number Theory"
       ]
+    },
+    {
+      "frontendId": "3302",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2099406366,
+          "language": "cpp",
+          "submittedAt": "2026-08-08T17:23:54.000Z",
+          "runtime": "46 ms",
+          "memory": "121.3 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
     }
   ]
 }
