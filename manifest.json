@@ -4720,6 +4720,29 @@
         "Sprague–Grundy Theorem",
         "Zero-Sum Game"
       ]
+    },
+    {
+      "frontendId": "2996",
+      "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2103382535,
+          "language": "cpp",
+          "submittedAt": "2026-08-11T19:35:37.000Z",
+          "runtime": "3 ms",
+          "memory": "23 MB"
+        }
+      ],
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   ]
 }
