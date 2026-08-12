@@ -4743,6 +4743,29 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    {
+      "frontendId": "2958",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "languages": [
+        "cpp"
+      ],
+      "submissions": [
+        {
+          "id": 2104053960,
+          "language": "cpp",
+          "submittedAt": "2026-08-12T10:33:17.000Z",
+          "runtime": "66 ms",
+          "memory": "149.4 MB"
+        }
+      ],
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
     }
   ]
 }
