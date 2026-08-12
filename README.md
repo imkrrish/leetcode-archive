@@ -17,60 +17,61 @@ Each problem includes the original statement, constraints, metadata, and one or 
 
 | Metric | Count |
 | ------ | ----- |
-| **Total Solved** | **178** |
-| 🟢 Easy | 83 |
-| 🟡 Medium | 69 |
-| 🔴 Hard | 26 |
-| 📅 Last Sync | 5/8/2026, 5:32:51 pm |
+| **Total Solved** | **185** |
+| 🟢 Easy | 85 |
+| 🟡 Medium | 72 |
+| 🔴 Hard | 28 |
+| 📅 Last Sync | 12/8/2026, 11:23:05 pm |
 
 ## Language Used
 
 | Language | Solved |
 | -------- | ------ |
-| C++ | 172 |
+| C++ | 179 |
 | JavaScript | 11 |
 
 ## Topic Covered
 
 | Topic | Solved |
 | ----- | ------ |
-| Array | 100 |
-| Hash Table | 40 |
-| Sorting | 39 |
-| Math | 38 |
-| String | 36 |
-| Two Pointers | 28 |
-| Dynamic Programming | 22 |
+| Array | 103 |
+| Math | 42 |
+| Hash Table | 42 |
+| Sorting | 40 |
+| String | 38 |
+| Two Pointers | 29 |
+| Dynamic Programming | 25 |
 | Depth-First Search | 21 |
+| Greedy | 19 |
 | Breadth-First Search | 18 |
 | Binary Search | 17 |
-| Greedy | 17 |
 | Linked List | 16 |
 | Tree | 16 |
 | Simulation | 13 |
 | Binary Tree | 13 |
 | Recursion | 12 |
 | Bit Manipulation | 11 |
+| Prefix Sum | 11 |
 | Heap (Priority Queue) | 10 |
 | Stack | 10 |
-| Prefix Sum | 10 |
 | Matrix | 9 |
 | Graph Theory | 9 |
 | Divide and Conquer | 8 |
 | Counting | 8 |
+| Number Theory | 7 |
 | Union-Find | 6 |
-| Number Theory | 6 |
+| Sliding Window | 6 |
+| Enumeration | 6 |
 | Trie | 5 |
-| Sliding Window | 5 |
 | Segment Tree | 5 |
-| Enumeration | 5 |
+| Minimax | 5 |
+| Game Theory | 5 |
+| Zero-Sum Game | 5 |
 | Merge Sort | 4 |
 | Binary Search Tree | 3 |
 | Counting Sort | 3 |
-| Minimax | 3 |
-| Game Theory | 3 |
-| Zero-Sum Game | 3 |
 | Ordered Set | 2 |
+| Backtracking | 2 |
 | Design | 2 |
 | Shortest Path | 2 |
 | Combinatorics | 2 |
@@ -79,10 +80,11 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | Doubly-Linked List | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
-| Backtracking | 1 |
 | Binary Indexed Tree | 1 |
 | Topological Sort | 1 |
 | Monotonic Stack | 1 |
+| Nim Game | 1 |
+| Sprague–Grundy Theorem | 1 |
 
 ## Problems Index
 
@@ -166,6 +168,7 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/increasing-order-search-tree/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 | 1122 | [Relative Sort Array](./1122-relative-sort-array/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/relative-sort-array/) |
+| 1140 | [Stone Game II](./1140-stone-game-ii/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/stone-game-ii/) |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) |
 | 1260 | [Shift 2D Grid](./1260-shift-2d-grid/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) |
 | 1288 | [Remove Covered Intervals](./1288-remove-covered-intervals/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) |
@@ -182,6 +185,7 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 1406 | [Stone Game III](./1406-stone-game-iii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/stone-game-iii/) |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
 | 1483 | [Kth Ancestor of a Tree Node](./1483-kth-ancestor-of-a-tree-node/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) |
+| 1510 | [Stone Game IV](./1510-stone-game-iv/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/stone-game-iv/) |
 | 1636 | [Sort Array by Increasing Frequency](./1636-sort-array-by-increasing-frequency/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665-minimum-initial-energy-to-finish-tasks/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) |
 | 1674 | [Minimum Moves to Make Array Complementary](./1674-minimum-moves-to-make-array-complementary/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) |
@@ -217,7 +221,9 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) |
 | 2784 | [Check if Array is Good](./2784-check-if-array-is-good/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/check-if-array-is-good/) |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) |
 | 2974 | [Minimum Number Game](./2974-minimum-number-game/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-game/) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) |
@@ -228,10 +234,13 @@ Each problem includes the original statement, constraints, metadata, and one or 
 | 3161 | [Block Placement Queries](./3161-block-placement-queries/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/block-placement-queries/) |
 | 3286 | [Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300-minimum-element-after-replacement-with-digit-sum/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](./3302-find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) |
 | 3304 | [Find the K-th Character in String Game I](./3304-find-the-k-th-character-in-string-game-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./3336-find-the-number-of-subsequences-with-equal-gcd/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
+| 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) |
+| 3348 | [Smallest Divisible Digit Product II](./3348-smallest-divisible-digit-product-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) |
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i/) | 🟡 Medium | C++ | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii/) | 🔴 Hard | C++ | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
 | 3507 | [Minimum Pair Removal to Sort Array I](./3507-minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | C++ | [LeetCode](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) |
